@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_AU7mMJ8A5r0",
+    "title": "【MAD】FGO × IMAGINARY LIKE THE JUSTICE",
+    "author": "Kazu",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AU7mMJ8A5r0",
+    "duration": "4:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Kazu）。",
+    "tags": [
+      "自動取得",
+      "Fate/Grand Order -絶対魔獣戦線バビロニア-"
+    ],
+    "auto": true,
+    "anime": "Fate/Grand Order -絶対魔獣戦線バビロニア-",
+    "reading": "Fate/Grand Order -ぜったいまじゅうせんせんばびろにあ-"
+  },
+  {
     "id": "auto_aj5UsVO2Sjw",
     "title": "【MAD】機動戦士ガンダム 鉄血のオルフェンズ「Torch of Liberty」",
     "author": "コジコジ",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_g3eHBze6zms",
-    "title": "【Dandadan】YOASOBI「怪物」MAD/AMV【ダンダダン】",
-    "author": "スズメさん",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "g3eHBze6zms",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（スズメさん）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

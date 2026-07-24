@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_wKX5Oh7GaWA",
+    "title": "【静止画MAD 】焦がれるほどに憧れた、たった一つの本物【やはり俺の青春ラブコメはまちがっている。】",
+    "author": "垢メイン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wKX5Oh7GaWA",
+    "duration": "3:02",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（垢メイン）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_AU7mMJ8A5r0",
     "title": "【MAD】FGO × IMAGINARY LIKE THE JUSTICE",
     "author": "Kazu",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_e_pdE__o5D8",
-    "title": "【Official】Uru 「ambivalent」 TV Anime『The Apothecary Diaries』 OP theme song",
-    "author": "Uru Official YouTube Channel",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "e_pdE__o5D8",
-    "duration": "4:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Uru Official YouTube Channel）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 

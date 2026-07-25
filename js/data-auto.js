@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_WZV2emaM69g",
+    "title": "【MAD】僕のヒーローアカデミア/RADWIMPS/会心の一撃　セリフあり",
+    "author": "のある【MAD】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "WZV2emaM69g",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア",
+    "reading": "ぼくのひーろーあかでみあ"
+  },
+  {
     "id": "auto_wKX5Oh7GaWA",
     "title": "【静止画MAD 】焦がれるほどに憧れた、たった一つの本物【やはり俺の青春ラブコメはまちがっている。】",
     "author": "垢メイン",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SPY×FAMILY",
     "reading": "SPY×FAMILY"
-  },
-  {
-    "id": "auto_Jr4dbw7jSSY",
-    "title": "【MAD】進撃の巨人/ハンジ・ゾエ『愛が灯る』",
-    "author": "織田 信長",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Jr4dbw7jSSY",
-    "duration": "1:48",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（織田 信長）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 

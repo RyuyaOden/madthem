@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_0qSshBvhL6Y",
+    "title": "【静止画MAD】HERO【ワンパンマン】",
+    "author": "AMAIMASK",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "0qSshBvhL6Y",
+    "duration": "1:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（AMAIMASK）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_z7WcqXtfw1A",
     "title": "【MAD】ONE PIECE×点描の唄　〜サボ編〜",
     "author": "YPTV",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_ZgP44AUgJmc",
-    "title": "【MAD】炎炎ノ消防隊×右肩の蝶",
-    "author": "ツクオ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ZgP44AUgJmc",
-    "duration": "4:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ツクオ）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ];
 

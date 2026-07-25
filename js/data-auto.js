@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_z7WcqXtfw1A",
+    "title": "【MAD】ONE PIECE×点描の唄　〜サボ編〜",
+    "author": "YPTV",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "z7WcqXtfw1A",
+    "duration": "3:43",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（YPTV）。",
+    "tags": [
+      "自動取得",
+      "ONE PIECE"
+    ],
+    "auto": true,
+    "anime": "ONE PIECE",
+    "reading": "ONE PIECE"
+  },
+  {
     "id": "auto_WZV2emaM69g",
     "title": "【MAD】僕のヒーローアカデミア/RADWIMPS/会心の一撃　セリフあり",
     "author": "のある【MAD】",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_7dwXCprmnq8",
-    "title": "アーニャのきもちいっぱい！！『SPY×FAMILY』5周年記念スペシャルムービー",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7dwXCprmnq8",
-    "duration": "1:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SPY×FAMILY"
-    ],
-    "auto": true,
-    "anime": "SPY×FAMILY",
-    "reading": "SPY×FAMILY"
   }
 ];
 

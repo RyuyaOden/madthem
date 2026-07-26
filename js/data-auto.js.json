@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_7O9V1iW-zeY",
+    "title": "Odd Taxi AMV - ODDTAXI (Cover by 黒斑) - Fairy Tale (Orchestal Cover by RallyMusic) - [OST]",
+    "author": "T.A Ultra",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "7O9V1iW-zeY",
+    "duration": "6:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（T.A Ultra）。",
+    "tags": [
+      "自動取得",
+      "オッドタクシー"
+    ],
+    "auto": true,
+    "anime": "オッドタクシー",
+    "reading": "おっどたくしー"
+  },
+  {
     "id": "auto_0qSshBvhL6Y",
     "title": "【静止画MAD】HERO【ワンパンマン】",
     "author": "AMAIMASK",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "リコリス・リコイル Friends are thieves of time.",
     "reading": "りこりす・りこいる Friends are thieves of time."
-  },
-  {
-    "id": "auto_BXOoSsKgb5c",
-    "title": "[MAD]鬼滅の刃×紅蓮華",
-    "author": "黒犬の成り上がり",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BXOoSsKgb5c",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（黒犬の成り上がり）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ]

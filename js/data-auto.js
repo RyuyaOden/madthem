@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_lYCEmTQnWr0",
+    "title": "【MAD】やはり俺の青春ラブコメはまちがっている。完×ユキトキ",
+    "author": "akiMAD-anime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "lYCEmTQnWr0",
+    "duration": "4:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（akiMAD-anime）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。完"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。完",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。かん"
+  },
+  {
     "id": "auto_7O9V1iW-zeY",
     "title": "Odd Taxi AMV - ODDTAXI (Cover by 黒斑) - Fairy Tale (Orchestal Cover by RallyMusic) - [OST]",
     "author": "T.A Ultra",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto__4IsU5FoWYw",
-    "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」「Episode3 Parody」【MAD】",
-    "author": "ボコチャンネル【Boko channel】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_4IsU5FoWYw",
-    "duration": "1:39",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ボコチャンネル【Boko channel】）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル Friends are thieves of time."
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル Friends are thieves of time.",
-    "reading": "りこりす・りこいる Friends are thieves of time."
   }
 ];
 

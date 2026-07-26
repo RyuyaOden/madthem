@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_AhH4sNTJMck",
+    "title": "【MAD】あららぎぴっぴとかいいだけ【化物語】",
+    "author": "穴太",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AhH4sNTJMck",
+    "duration": "3:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（穴太）。",
+    "tags": [
+      "自動取得",
+      "化物語"
+    ],
+    "auto": true,
+    "anime": "化物語",
+    "reading": "ばけものご"
+  },
+  {
     "id": "auto_lYCEmTQnWr0",
     "title": "【MAD】やはり俺の青春ラブコメはまちがっている。完×ユキトキ",
     "author": "akiMAD-anime",
@@ -21975,28 +21997,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（Miii）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Nmo-h_AIfxk",
-    "title": "【MAD】【推しの子】 『 晩餐歌 』",
-    "author": "脳が焼かれた子",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Nmo-h_AIfxk",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（脳が焼かれた子）。",
     "tags": [
       "自動取得",
       "【推しの子】"

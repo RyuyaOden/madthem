@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_ysCrXMsMyz4",
+    "title": "【静止画MAD】起承転起【Re:ゼロから始める異世界生活】",
+    "author": "垢メイン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ysCrXMsMyz4",
+    "duration": "4:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（垢メイン）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_AhH4sNTJMck",
     "title": "【MAD】あららぎぴっぴとかいいだけ【化物語】",
     "author": "穴太",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_cg4V6PXPNrA",
-    "title": "【MAD】推しの子 × あやふや【黒川あかね】",
-    "author": "Miii",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cg4V6PXPNrA",
-    "duration": "3:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Miii）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ]

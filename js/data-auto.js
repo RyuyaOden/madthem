@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_aUF9hnwMVYs",
+    "title": "TVアニメ『炎炎ノ消防隊』25年後",
+    "author": "炎炎ノ消防隊",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "aUF9hnwMVYs",
+    "duration": "1:37",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（炎炎ノ消防隊）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_ysCrXMsMyz4",
     "title": "【静止画MAD】起承転起【Re:ゼロから始める異世界生活】",
     "author": "垢メイン",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_VJ2FIBwbc70",
-    "title": "【静止画MAD】声？【Dr.STONE】",
-    "author": "ぽめた",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "VJ2FIBwbc70",
-    "duration": "1:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぽめた）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ];
 

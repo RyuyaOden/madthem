@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_6DrKJzuH7M8",
+    "title": "QUESTION",
+    "author": "3rd GRADE CLASS E THE CHARGE OF THE SONG - Topic",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6DrKJzuH7M8",
+    "duration": "4:27",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（3rd GRADE CLASS E THE CHARGE OF THE SONG - Topic）。",
+    "tags": [
+      "自動取得",
+      "アンケート"
+    ],
+    "auto": true,
+    "anime": "アンケート",
+    "reading": "あんけーと"
+  },
+  {
     "id": "auto_aUF9hnwMVYs",
     "title": "TVアニメ『炎炎ノ消防隊』25年後",
     "author": "炎炎ノ消防隊",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "祝福",
     "reading": "しゅくふく"
-  },
-  {
-    "id": "auto_QjAV-X8bGsE",
-    "title": "【MAD】チェンソーマン×「怪獣の花唄」",
-    "author": "青りんご【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QjAV-X8bGsE",
-    "duration": "2:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（青りんご【MAD】）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 

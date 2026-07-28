@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_t9t8VHXlZJI",
+    "title": "ODD TAXI 「AMV」",
+    "author": "Comodín. .nídomoC",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "t9t8VHXlZJI",
+    "duration": "2:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Comodín. .nídomoC）。",
+    "tags": [
+      "自動取得",
+      "オッドタクシー"
+    ],
+    "auto": true,
+    "anime": "オッドタクシー",
+    "reading": "おっどたくしー"
+  },
+  {
     "id": "auto_wy5qdHTmPdE",
     "title": "PSYCHO-PASS『Scarlet Story』MAD",
     "author": "心を熱くするMAD Ch",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "BLEACH",
     "reading": "BLEACH"
-  },
-  {
-    "id": "auto_xlozE6ZpYtk",
-    "title": "【MAD/AMV】葬送のフリーレン×milet/The Story of Us",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "xlozE6ZpYtk",
-    "duration": "4:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 

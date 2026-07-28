@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_vdXBjNtbd6w",
+    "title": "【MAD】ただ君に晴れ『僕らは旅に出る』【四月は君の嘘】",
+    "author": "しづか",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vdXBjNtbd6w",
+    "duration": "3:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（しづか）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_6DrKJzuH7M8",
     "title": "QUESTION",
     "author": "3rd GRADE CLASS E THE CHARGE OF THE SONG - Topic",
@@ -21980,27 +22002,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_pCoEAD4Y_i8",
-    "title": "【MAD/AMV】祝福【YOASOBI】【水星の魔女】",
-    "author": "Re:No",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "pCoEAD4Y_i8",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
-    "tags": [
-      "自動取得",
-      "祝福"
-    ],
-    "auto": true,
-    "anime": "祝福",
-    "reading": "しゅくふく"
   }
 ]

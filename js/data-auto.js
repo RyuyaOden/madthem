@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_wy5qdHTmPdE",
+    "title": "PSYCHO-PASS『Scarlet Story』MAD",
+    "author": "心を熱くするMAD Ch",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wy5qdHTmPdE",
+    "duration": "3:04",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（心を熱くするMAD Ch）。",
+    "tags": [
+      "自動取得",
+      "PSYCHO-PASS サイコパス"
+    ],
+    "auto": true,
+    "anime": "PSYCHO-PASS サイコパス",
+    "reading": "PSYCHO-PASS さいこぱす"
+  },
+  {
     "id": "auto_vdXBjNtbd6w",
     "title": "【MAD】ただ君に晴れ『僕らは旅に出る』【四月は君の嘘】",
     "author": "しづか",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_EjQnpaLXrn4",
-    "title": "ブルーロックMAD ~それでも僕らの呼吸は止まない~",
-    "author": "ジンキロ",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "EjQnpaLXrn4",
-    "duration": "4:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジンキロ）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 

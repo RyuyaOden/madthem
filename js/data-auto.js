@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PEHYPohNxSk",
+    "title": "【葬送のフリーレン】たぶん／YOASOBI【MAD AMV】【高画質】【4K】",
+    "author": "しょこわき【イコノイジョイ】",
+    "type": "single",
+    "genres": [
+      "J-POP"
+    ],
+    "youtubeId": "PEHYPohNxSk",
+    "duration": "4:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（しょこわき【イコノイジョイ】）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_PqJNc9KVIZE",
     "title": "livetune feat. 初音ミク 『Tell Your World』Music Video",
     "author": "kz-livetune",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_LRgmRhjej1M",
-    "title": "【MAD / AMV】　SAKAMOTO DAYS×走れSAKAMOTO  【セリフ・歌詞入り】",
-    "author": "【MAD】デラックスジョーカー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "LRgmRhjej1M",
-    "duration": "3:40",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【MAD】デラックスジョーカー）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 

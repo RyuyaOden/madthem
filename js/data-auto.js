@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zdzdAyIt82M",
+    "title": "Fate/Grand Order  「AMV」 - Superhero ᴴᴰ",
+    "author": "HALO CIS AMV 版",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "zdzdAyIt82M",
+    "duration": "3:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（HALO CIS AMV 版）。",
+    "tags": [
+      "自動取得",
+      "運命"
+    ],
+    "auto": true,
+    "anime": "運命",
+    "reading": "うんめい"
+  },
+  {
     "id": "auto_t9t8VHXlZJI",
     "title": "ODD TAXI 「AMV」",
     "author": "Comodín. .nídomoC",
@@ -21982,28 +22004,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボール",
     "reading": "どらごんぼーる"
-  },
-  {
-    "id": "auto_gxVzURqs9OE",
-    "title": "【MAD】BLEACH×敗北の少年",
-    "author": "底辺の頂点",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "gxVzURqs9OE",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（底辺の頂点）。",
-    "tags": [
-      "自動取得",
-      "BLEACH"
-    ],
-    "auto": true,
-    "anime": "BLEACH",
-    "reading": "BLEACH"
   }
 ];
 

@@ -2,6 +2,29 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PqJNc9KVIZE",
+    "title": "livetune feat. 初音ミク 『Tell Your World』Music Video",
+    "author": "kz-livetune",
+    "type": "single",
+    "genres": [
+      "EDM",
+      "ボカロ"
+    ],
+    "youtubeId": "PqJNc9KVIZE",
+    "duration": "4:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（kz-livetune）。",
+    "tags": [
+      "自動取得",
+      "Tell Your World"
+    ],
+    "auto": true,
+    "anime": "Tell Your World",
+    "reading": "Tell Your World"
+  },
+  {
     "id": "auto_zdzdAyIt82M",
     "title": "Fate/Grand Order  「AMV」 - Superhero ᴴᴰ",
     "author": "HALO CIS AMV 版",
@@ -21982,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_iwSp54T-pdI",
-    "title": "ドラゴンボール×青のすみか",
-    "author": "ベジット【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "iwSp54T-pdI",
-    "duration": "4:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ベジット【MAD】）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール",
-    "reading": "どらごんぼーる"
   }
 ];
 

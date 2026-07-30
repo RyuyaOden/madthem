@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_JcfSDIuy0Wc",
+    "title": "ヱヴァンゲリヲン新劇場版:Q MAD【ハイパーベンチレイション】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "JcfSDIuy0Wc",
+    "duration": "4:21",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "ヱヴァンゲリヲン新劇場版:Q"
+    ],
+    "auto": true,
+    "anime": "ヱヴァンゲリヲン新劇場版:Q",
+    "reading": "ゑゔぁんげりをんしんげきばはん:Q"
+  },
+  {
     "id": "auto_nEukZalW7Ac",
     "title": "ラックライフ / 名前を呼ぶよ [AMV]（TVアニメ『文豪ストレイドッグス』第1シーズンED主題歌）",
     "author": "Lantis Channel",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_qjemot_uDz4",
-    "title": "【MAD/AMV】傍若のカリスマ【ブルーロック】",
-    "author": "Re:No",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "qjemot_uDz4",
-    "duration": "4:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Re:No）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 

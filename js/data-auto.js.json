@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_sWYMxgy2vxs",
+    "title": "【MAD】StaRt【このすば】",
+    "author": "miyota",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "sWYMxgy2vxs",
+    "duration": "1:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（miyota）。",
+    "tags": [
+      "自動取得",
+      "START"
+    ],
+    "auto": true,
+    "anime": "START",
+    "reading": "START"
+  },
+  {
     "id": "auto_PEHYPohNxSk",
     "title": "【葬送のフリーレン】たぶん／YOASOBI【MAD AMV】【高画質】【4K】",
     "author": "しょこわき【イコノイジョイ】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_58zPARpJ1NM",
-    "title": "[MAD] 炎炎ノ消防隊×MAYDAY coldrain feat Ryo from Crystal Lake",
-    "author": "キカザル",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "58zPARpJ1NM",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（キカザル）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_nEukZalW7Ac",
+    "title": "ラックライフ / 名前を呼ぶよ [AMV]（TVアニメ『文豪ストレイドッグス』第1シーズンED主題歌）",
+    "author": "Lantis Channel",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nEukZalW7Ac",
+    "duration": "4:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lantis Channel）。",
+    "tags": [
+      "自動取得",
+      "文豪ストレイドッグス"
+    ],
+    "auto": true,
+    "anime": "文豪ストレイドッグス",
+    "reading": "ぶんごうすとれいどっぐす"
+  },
+  {
     "id": "auto_sWYMxgy2vxs",
     "title": "【MAD】StaRt【このすば】",
     "author": "miyota",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_FJUszX5EY_Y",
-    "title": "【公式】『SAKAMOTO DAYS』南雲与市PV【07/09】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "FJUszX5EY_Y",
-    "duration": "1:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 

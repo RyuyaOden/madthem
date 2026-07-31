@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_3wTbamHV8pU",
+    "title": "【MAD】このすばでホットペッパー【この素晴らしい世界に祝福を！】",
+    "author": "めぐみんちゃんねる",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "3wTbamHV8pU",
+    "duration": "2:14",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（めぐみんちゃんねる）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！",
+    "reading": "このすばらしいせかいにしゅくふくを！"
+  },
+  {
     "id": "auto_JcfSDIuy0Wc",
     "title": "ヱヴァンゲリヲン新劇場版:Q MAD【ハイパーベンチレイション】",
     "author": "ฅ^•ω•^ฅ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_6UuvWVk8yfA",
-    "title": "【mad】聲の形×君の太陽",
-    "author": "Tiger",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "6UuvWVk8yfA",
-    "duration": "3:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Tiger）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ]

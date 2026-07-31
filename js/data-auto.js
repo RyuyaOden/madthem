@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_fmKB5KOwEHw",
+    "title": "《MAD》炎炎ノ消防隊×偽物勇者",
+    "author": "dep3",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "fmKB5KOwEHw",
+    "duration": "3:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（dep3）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_oaQckE5sGb0",
     "title": "【モブサイコ100】 不完全な師弟【手描き】",
     "author": "葉っぱ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_QRyo7ri0aAg",
-    "title": "【MAD】【推しの子】/私が明日死ぬなら -キタニタツヤ-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "QRyo7ri0aAg",
-    "duration": "4:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 

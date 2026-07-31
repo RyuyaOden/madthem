@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_oaQckE5sGb0",
+    "title": "【モブサイコ100】 不完全な師弟【手描き】",
+    "author": "葉っぱ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "oaQckE5sGb0",
+    "duration": "1:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（葉っぱ）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_3wTbamHV8pU",
     "title": "【MAD】このすばでホットペッパー【この素晴らしい世界に祝福を！】",
     "author": "めぐみんちゃんねる",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_5ke-OPiIS58",
-    "title": "【MAD】完全感覚Dreamer【天元突破グレンラガン】",
-    "author": "Danie xio",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5ke-OPiIS58",
-    "duration": "4:14",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Danie xio）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ];
 

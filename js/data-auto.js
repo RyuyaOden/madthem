@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_brQr8SCyr2g",
+    "title": "Jujutsu Kaisen × hololive | King Gnu - AIZO (The Culling Game)",
+    "author": "Vチューバー研究会【V研】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "brQr8SCyr2g",
+    "duration": "3:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Vチューバー研究会【V研】）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_PN8Mly26_qo",
     "title": "【MAD/AMV】約束のネバーランド×プライド革命",
     "author": "おもち",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "リコリス・リコイル",
     "reading": "りこりす・りこいる"
-  },
-  {
-    "id": "auto_th_OvuY_9f8",
-    "title": "【MAD/AMV】残響【機動戦士ガンダム 閃光のハサウェイ】",
-    "author": "リンナ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "th_OvuY_9f8",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（リンナ）。",
-    "tags": [
-      "自動取得",
-      "機動戦士ガンダム 閃光のハサウェイ"
-    ],
-    "auto": true,
-    "anime": "機動戦士ガンダム 閃光のハサウェイ",
-    "reading": "きどうせんしがんだむ せんこうのはさうぇい"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_PN8Mly26_qo",
+    "title": "【MAD/AMV】約束のネバーランド×プライド革命",
+    "author": "おもち",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PN8Mly26_qo",
+    "duration": "3:58",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（おもち）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_QZdID5UMTPc",
     "title": "黒子のバスケ×ピースサイン【MAD 】",
     "author": "ラムレト",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "機動戦士ガンダム 閃光のハサウェイ",
     "reading": "きどうせんしがんだむ せんこうのはさうぇい"
-  },
-  {
-    "id": "auto_IEiY9izturc",
-    "title": "DEMON SLAYER // Rengoku Kyojuro // ROYALTY「AMV-EDIT」// 4K @Viosence",
-    "author": "Viosence | AMV",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "IEiY9izturc",
-    "duration": "3:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Viosence | AMV）。",
-    "tags": [
-      "自動取得",
-      "鬼斬"
-    ],
-    "auto": true,
-    "anime": "鬼斬",
-    "reading": "おにざん"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_QZdID5UMTPc",
+    "title": "黒子のバスケ×ピースサイン【MAD 】",
+    "author": "ラムレト",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "QZdID5UMTPc",
+    "duration": "3:57",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ラムレト）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_fmKB5KOwEHw",
     "title": "《MAD》炎炎ノ消防隊×偽物勇者",
     "author": "dep3",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼斬",
     "reading": "おにざん"
-  },
-  {
-    "id": "auto_kDXbznoQV38",
-    "title": "『ダンダダン』 DANDADAN Fanmade Opening 「Ashura-chan」",
-    "author": "Jayro Zeppeli",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kDXbznoQV38",
-    "duration": "1:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Jayro Zeppeli）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

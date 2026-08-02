@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_bbi7h_xHjLA",
+    "title": "【MAD】死物狂〜シニモノグルイ〜 『脱法ロック』×『物語シリーズ』",
+    "author": "聖徳明太子",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "bbi7h_xHjLA",
+    "duration": "3:05",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（聖徳明太子）。",
+    "tags": [
+      "自動取得",
+      "脱法ロック"
+    ],
+    "auto": true,
+    "anime": "脱法ロック",
+    "reading": "だっぽうろっく"
+  },
+  {
     "id": "auto__m-TJDqy_NM",
     "title": "SPY×FAMILY MAD - HOT LIMIT (HIGH and MIGHTY COLOR)",
     "author": "Soulorne ネト [MAD・GMV 創造系 Creator]",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_5uyarT4AgqY",
-    "title": "【ガンダム】名言・名場面集【アニメ】【名言】【名シーン】【名場面】【MAD】",
-    "author": "yun yun",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "5uyarT4AgqY",
-    "duration": "4:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（yun yun）。",
-    "tags": [
-      "自動取得",
-      "∀ガンダム"
-    ],
-    "auto": true,
-    "anime": "∀ガンダム",
-    "reading": "∀がんだむ"
   }
 ];
 

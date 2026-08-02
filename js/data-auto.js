@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_w9x8x8BZ8yk",
+    "title": "【MAD】あの花 × いかないで",
+    "author": "Michie",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "w9x8x8BZ8yk",
+    "duration": "3:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Michie）。",
+    "tags": [
+      "自動取得",
+      "あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_bbi7h_xHjLA",
     "title": "【MAD】死物狂〜シニモノグルイ〜 『脱法ロック』×『物語シリーズ』",
     "author": "聖徳明太子",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_RToCxYp2Mp4",
-    "title": "Sakamoto days | Fan Animation",
-    "author": "wsfuture",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RToCxYp2Mp4",
-    "duration": "1:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（wsfuture）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ];
 

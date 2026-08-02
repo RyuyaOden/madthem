@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto__m-TJDqy_NM",
+    "title": "SPY×FAMILY MAD - HOT LIMIT (HIGH and MIGHTY COLOR)",
+    "author": "Soulorne ネト [MAD・GMV 創造系 Creator]",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "_m-TJDqy_NM",
+    "duration": "1:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Soulorne ネト [MAD・GMV 創造系 Creator]）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_brQr8SCyr2g",
     "title": "Jujutsu Kaisen × hololive | King Gnu - AIZO (The Culling Game)",
     "author": "Vチューバー研究会【V研】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "∀ガンダム",
     "reading": "∀がんだむ"
-  },
-  {
-    "id": "auto_nk8bdr0iB8E",
-    "title": "[AMV/MAD]リコリス・リコイル |『花の塔』",
-    "author": "緋亞",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "nk8bdr0iB8E",
-    "duration": "4:37",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（緋亞）。",
-    "tags": [
-      "自動取得",
-      "リコリス・リコイル"
-    ],
-    "auto": true,
-    "anime": "リコリス・リコイル",
-    "reading": "りこりす・りこいる"
   }
 ];
 

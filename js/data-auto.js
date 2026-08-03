@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_KVmxddvo-U8",
+    "title": "シュタインズゲート×ＬＥＯ　ＭＡＤ",
+    "author": "ヒロック",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "KVmxddvo-U8",
+    "duration": "1:52",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヒロック）。",
+    "tags": [
+      "自動取得",
+      "劇場版 シュタインズゲート 負荷領域のデジャヴ"
+    ],
+    "auto": true,
+    "anime": "劇場版 シュタインズゲート 負荷領域のデジャヴ",
+    "reading": "げきじょうばん しゅたいんずげーと ふかりょういきのでじゃゔ"
+  },
+  {
     "id": "auto_w9x8x8BZ8yk",
     "title": "【MAD】あの花 × いかないで",
     "author": "Michie",
@@ -21976,28 +21998,6 @@ const MAD_AUTO = [
     "hot": true,
     "recommended": false,
     "description": "YouTubeから自動取得したアニメMAD（なすマシーン）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_Y7V3A3Peh2o",
-    "title": "【MAD/AMV】『呪術廻戦』×King Gnu『AIZO』",
-    "author": "よしだしょうた",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "Y7V3A3Peh2o",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（よしだしょうた）。",
     "tags": [
       "自動取得",
       "呪術廻戦"

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rXAo01-Lr5o",
+    "title": "【MAD】この素晴らしい世界に祝福を！×会心の一撃【紅伝説】",
+    "author": "マグロさん【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rXAo01-Lr5o",
+    "duration": "4:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（マグロさん【MAD】）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！",
+    "reading": "このすばらしいせかいにしゅくふくを！"
+  },
+  {
     "id": "auto_tbpaRxfOeG8",
     "title": "【MAD】モブサイコ100 × Bad Day【高画質】【1080p】",
     "author": "変神 HENJIN",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "炎炎ノ消防隊",
     "reading": "ほのおほのおのしょうぼうたい"
-  },
-  {
-    "id": "auto_XREAr4h-6IY",
-    "title": "【MAD】聲の形「明けない夜のリリィ×あなたの夜が明けるまで」",
-    "author": "だふぱ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "XREAr4h-6IY",
-    "duration": "1:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（だふぱ）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 

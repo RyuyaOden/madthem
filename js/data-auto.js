@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_tbpaRxfOeG8",
+    "title": "【MAD】モブサイコ100 × Bad Day【高画質】【1080p】",
+    "author": "変神 HENJIN",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "tbpaRxfOeG8",
+    "duration": "2:08",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（変神 HENJIN）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_KVmxddvo-U8",
     "title": "シュタインズゲート×ＬＥＯ　ＭＡＤ",
     "author": "ヒロック",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_Ui0Q0WaNP50",
-    "title": "【呪術廻戦MAD/AMV】呪術廻戦 × 劣等上等　セリフ入りMAD",
-    "author": "なすマシーン",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ui0Q0WaNP50",
-    "duration": "3:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（なすマシーン）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 

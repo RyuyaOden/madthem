@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_sqYn7dr4Mzw",
+    "title": "Full MAD 天気の子 | ふたりごと(RADWIMPS) ~帆高と陽菜の物語~",
+    "author": "大ちゃん",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "sqYn7dr4Mzw",
+    "duration": "4:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（大ちゃん）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_Sb7pGgPnmU8",
     "title": "【MAD】葬送のフリーレン／lulu",
     "author": "ヌエてゃん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_hRYI0zjpyFg",
-    "title": "【ヒロアカMAD】ユアネクスト×Alia/かくれんぼ　セリフあり",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hRYI0zjpyFg",
-    "duration": "3:46",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア THE MOVIE ユアネクスト《A PIECE OF CAKE》"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア THE MOVIE ユアネクスト《A PIECE OF CAKE》",
-    "reading": "ぼくのひーろーあかでみあ THE MOVIE ゆあねくすと《A PIECE OF CAKE》"
   }
 ];
 

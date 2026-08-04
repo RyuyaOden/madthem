@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_T-DMND-la0U",
+    "title": "【shingeki no kyojin】TheFinalSeason part3 Ending theme song「二千年…若しくは…二万年後の君へ⋯」translation mad",
+    "author": "りばい。",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "T-DMND-la0U",
+    "duration": "4:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（りばい。）。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_rXAo01-Lr5o",
     "title": "【MAD】この素晴らしい世界に祝福を！×会心の一撃【紅伝説】",
     "author": "マグロさん【MAD】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ぼっち・ざ・ろっく！",
     "reading": "ぼっち・ざ・ろっく！"
-  },
-  {
-    "id": "auto_T5Yts3tcIJc",
-    "title": "【MAD】炎炎ノ消防隊(ジョーカー×新門紅丸)×おどりゃんせ",
-    "author": "そこら辺",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "T5Yts3tcIJc",
-    "duration": "3:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（そこら辺）。",
-    "tags": [
-      "自動取得",
-      "炎炎ノ消防隊"
-    ],
-    "auto": true,
-    "anime": "炎炎ノ消防隊",
-    "reading": "ほのおほのおのしょうぼうたい"
   }
 ]

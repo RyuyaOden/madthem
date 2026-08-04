@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Sb7pGgPnmU8",
+    "title": "【MAD】葬送のフリーレン／lulu",
+    "author": "ヌエてゃん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Sb7pGgPnmU8",
+    "duration": "4:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヌエてゃん）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_T-DMND-la0U",
     "title": "【shingeki no kyojin】TheFinalSeason part3 Ending theme song「二千年…若しくは…二万年後の君へ⋯」translation mad",
     "author": "りばい。",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア THE MOVIE ユアネクスト《A PIECE OF CAKE》",
     "reading": "ぼくのひーろーあかでみあ THE MOVIE ゆあねくすと《A PIECE OF CAKE》"
-  },
-  {
-    "id": "auto_A75xxUd4iYw",
-    "title": "【MAD】ぼっち・ざ・ろっく/結束バンド「星座になれたら」",
-    "author": "Aja",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "A75xxUd4iYw",
-    "duration": "4:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Aja）。",
-    "tags": [
-      "自動取得",
-      "ぼっち・ざ・ろっく！"
-    ],
-    "auto": true,
-    "anime": "ぼっち・ざ・ろっく！",
-    "reading": "ぼっち・ざ・ろっく！"
   }
 ]

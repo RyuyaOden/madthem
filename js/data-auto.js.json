@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_0aChas5jVf4",
+    "title": "【静止画MAD】梟谷学園VS狢坂高校/お/ど/り/ゃ/ん/せ【ハイキュー‼︎】",
+    "author": "ーEarl",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "0aChas5jVf4",
+    "duration": "3:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ーEarl）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_sqYn7dr4Mzw",
     "title": "Full MAD 天気の子 | ふたりごと(RADWIMPS) ~帆高と陽菜の物語~",
     "author": "大ちゃん",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_bj1TkOlLeIg",
-    "title": "【MAD/AMV】怪獣８号 x 星と獣",
-    "author": "火星人の秘密基地",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "bj1TkOlLeIg",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（火星人の秘密基地）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ]

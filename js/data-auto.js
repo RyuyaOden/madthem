@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4Tmn0eG6TvI",
+    "title": "【シュタインズ・ゲート】Missing【ＭＡＤ】",
+    "author": "TheMdruio84",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4Tmn0eG6TvI",
+    "duration": "3:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TheMdruio84）。",
+    "tags": [
+      "自動取得",
+      "シュタインズ・ゲート"
+    ],
+    "auto": true,
+    "anime": "シュタインズ・ゲート",
+    "reading": "しゅたいんず・げーと"
+  },
+  {
     "id": "auto_0aChas5jVf4",
     "title": "【静止画MAD】梟谷学園VS狢坂高校/お/ど/り/ゃ/ん/せ【ハイキュー‼︎】",
     "author": "ーEarl",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "新世紀エヴァンゲリオン",
     "reading": "しんせいきえゔぁんげりおん"
-  },
-  {
-    "id": "auto_7a7DTtBTnWs",
-    "title": "TVアニメ『ダンダダン』×アイナ・ジ・エンド / 革命道中 - On The Way  [Collaboration Music Video]",
-    "author": "MBS animation 公式チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7a7DTtBTnWs",
-    "duration": "3:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MBS animation 公式チャンネル）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

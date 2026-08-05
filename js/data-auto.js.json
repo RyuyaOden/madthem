@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_AOEuEbZ7_U8",
+    "title": "【東京リベンジャーズ】ブリキノダンス【静止画MAD】",
+    "author": "よんびょう神",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "AOEuEbZ7_U8",
+    "duration": "3:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（よんびょう神）。",
+    "tags": [
+      "自動取得",
+      "東京リベンジャーズ"
+    ],
+    "auto": true,
+    "anime": "東京リベンジャーズ",
+    "reading": "とうきょうりべんじゃーず"
+  },
+  {
     "id": "auto_4Tmn0eG6TvI",
     "title": "【シュタインズ・ゲート】Missing【ＭＡＤ】",
     "author": "TheMdruio84",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "月光",
     "reading": "げっこう"
-  },
-  {
-    "id": "auto_AKM9gim-Gos",
-    "title": "エヴァンゲリオンMAD/AMV【交響曲第九番】 EVANGELION/Beethoven's Ninth Symphony",
-    "author": "ฅ^•ω•^ฅ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "AKM9gim-Gos",
-    "duration": "4:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
-    "tags": [
-      "自動取得",
-      "新世紀エヴァンゲリオン"
-    ],
-    "auto": true,
-    "anime": "新世紀エヴァンゲリオン",
-    "reading": "しんせいきえゔぁんげりおん"
   }
 ]

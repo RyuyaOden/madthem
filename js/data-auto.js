@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_OVR-_16hArg",
+    "title": "【アニメMAD】BLEACH／chAngE -miwa-",
+    "author": "WakA.【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "OVR-_16hArg",
+    "duration": "4:14",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（WakA.【MAD】）。",
+    "tags": [
+      "自動取得",
+      "BLEACH"
+    ],
+    "auto": true,
+    "anime": "BLEACH",
+    "reading": "BLEACH"
+  },
+  {
     "id": "auto_mY5fujyIVNg",
     "title": "【原神】空色デイズ × マーヴィカ【MAD / AMV】",
     "author": "J23",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_xW9fdJkojgU",
-    "title": "【MAD】チェンソーマン×KICK BACK -米津玄師-",
-    "author": "Rinne Ch. 佐城りんね",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "xW9fdJkojgU",
-    "duration": "3:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Rinne Ch. 佐城りんね）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_mY5fujyIVNg",
+    "title": "【原神】空色デイズ × マーヴィカ【MAD / AMV】",
+    "author": "J23",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "mY5fujyIVNg",
+    "duration": "1:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（J23）。",
+    "tags": [
+      "自動取得",
+      "原神"
+    ],
+    "auto": true,
+    "anime": "原神",
+    "reading": "はらかみ"
+  },
+  {
     "id": "auto_AOEuEbZ7_U8",
     "title": "【東京リベンジャーズ】ブリキノダンス【静止画MAD】",
     "author": "よんびょう神",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_9M7cOqDWnU4",
-    "title": "【暗殺教室MAD】月光【中文字幕】",
-    "author": "緋月",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9M7cOqDWnU4",
-    "duration": "4:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（緋月）。",
-    "tags": [
-      "自動取得",
-      "月光"
-    ],
-    "auto": true,
-    "anime": "月光",
-    "reading": "げっこう"
   }
 ];
 

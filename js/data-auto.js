@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Z32ft4IuVSk",
+    "title": "【コメント付き】調査兵団×ピタゴラスイッチ【進撃の巨人】【MAD】",
+    "author": "投稿者氏名（niconicole3263）",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Z32ft4IuVSk",
+    "duration": "3:48",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（投稿者氏名（niconicole3263））。",
+    "tags": [
+      "自動取得",
+      "進撃の巨人"
+    ],
+    "auto": true,
+    "anime": "進撃の巨人",
+    "reading": "しんげきのきょじん"
+  },
+  {
     "id": "auto_OVR-_16hArg",
     "title": "【アニメMAD】BLEACH／chAngE -miwa-",
     "author": "WakA.【MAD】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
     "reading": "げきじょうばん まほうしょうじょまどか☆まぎか はんぎゃくのものがたり"
-  },
-  {
-    "id": "auto_OW7QOEoquAY",
-    "title": "【MAD】僕のヒーローアカデミア×Vaundy/しわあわせ",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "OW7QOEoquAY",
-    "duration": "4:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ebRSKoMSRms",
+    "title": "【MAD】この惑星(ほし)で、ただ一つだけ（Fate  Grand Order）",
+    "author": "KS00",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ebRSKoMSRms",
+    "duration": "4:55",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KS00）。",
+    "tags": [
+      "自動取得",
+      "Fate/Grand Order -First Order-"
+    ],
+    "auto": true,
+    "anime": "Fate/Grand Order -First Order-",
+    "reading": "Fate/Grand Order -First Order-"
+  },
+  {
     "id": "auto_Z32ft4IuVSk",
     "title": "【コメント付き】調査兵団×ピタゴラスイッチ【進撃の巨人】【MAD】",
     "author": "投稿者氏名（niconicole3263）",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_g7-IEir9APs",
-    "title": "【MAD】たったひとりの物語【叛逆の物語】",
-    "author": "律【Ritsu】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "g7-IEir9APs",
-    "duration": "2:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（律【Ritsu】）。",
-    "tags": [
-      "自動取得",
-      "劇場版 魔法少女まどか☆マギカ 叛逆の物語"
-    ],
-    "auto": true,
-    "anime": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
-    "reading": "げきじょうばん まほうしょうじょまどか☆まぎか はんぎゃくのものがたり"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_e76g1VmlUVc",
+    "title": "the shape of voice【聲の形×アイネクライネ】",
+    "author": "Japanese AMV/MAD 4th",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "e76g1VmlUVc",
+    "duration": "7:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Japanese AMV/MAD 4th）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_-7buiRgEBbc",
     "title": "【MAD】由比ヶ浜「ハルカ」【やはり俺の青春ラブコメはまちがっている】",
     "author": "マロン",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_qpgzXDiHRi4",
-    "title": "【MAD】怪獣8号×怪物",
-    "author": "ふらっど",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qpgzXDiHRi4",
-    "duration": "3:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ふらっど）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-7buiRgEBbc",
+    "title": "【MAD】由比ヶ浜「ハルカ」【やはり俺の青春ラブコメはまちがっている】",
+    "author": "マロン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-7buiRgEBbc",
+    "duration": "4:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（マロン）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_ebRSKoMSRms",
     "title": "【MAD】この惑星(ほし)で、ただ一つだけ（Fate  Grand Order）",
     "author": "KS00",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_K328nMiGqiE",
-    "title": "【MAD】モブサイコ100【神樹編・ホワイティー編】【グレイ】",
-    "author": "恋の花",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "K328nMiGqiE",
-    "duration": "3:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（恋の花）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 

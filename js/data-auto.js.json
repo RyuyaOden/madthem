@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_nPP48lU8DKg",
+    "title": "[MAD] ヴァイオレット・エヴァーガーデン[点描の唄]",
+    "author": "さい",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nPP48lU8DKg",
+    "duration": "1:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（さい）。",
+    "tags": [
+      "自動取得",
+      "ヴァイオレット・エヴァーガーデン"
+    ],
+    "auto": true,
+    "anime": "ヴァイオレット・エヴァーガーデン",
+    "reading": "ゔぁいおれっと・えゔぁーがーでん"
+  },
+  {
     "id": "auto_DOMVLkydzYI",
     "title": "【MAD】僕のヒーローアカデミア【千の翼】",
     "author": "闇亦",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ぼっち・ざ・ろっく！",
     "reading": "ぼっち・ざ・ろっく！"
-  },
-  {
-    "id": "auto_WI8NiVbVF1Q",
-    "title": "MＡＤ ライブ音響【推しの子】Ｂ小町「サインはＢ」４Ｋ６０ｆｐｓ高画質",
-    "author": "misasin",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "WI8NiVbVF1Q",
-    "duration": "1:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（misasin）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ]

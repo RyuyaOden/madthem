@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Hohz06wELKQ",
+    "title": "暗殺教室mad",
+    "author": "黃喬依",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Hohz06wELKQ",
+    "duration": "2:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（黃喬依）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_e76g1VmlUVc",
     "title": "the shape of voice【聲の形×アイネクライネ】",
     "author": "Japanese AMV/MAD 4th",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_X7JzWeEqgQY",
-    "title": "【MAD】暗殺教室×千本桜",
-    "author": "栗ちゃんネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "X7JzWeEqgQY",
-    "duration": "4:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（栗ちゃんネル）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 

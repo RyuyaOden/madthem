@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_DOMVLkydzYI",
+    "title": "【MAD】僕のヒーローアカデミア【千の翼】",
+    "author": "闇亦",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DOMVLkydzYI",
+    "duration": "3:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（闇亦）。",
+    "tags": [
+      "自動取得",
+      "僕のヒーローアカデミア"
+    ],
+    "auto": true,
+    "anime": "僕のヒーローアカデミア",
+    "reading": "ぼくのひーろーあかでみあ"
+  },
+  {
     "id": "auto_Hohz06wELKQ",
     "title": "暗殺教室mad",
     "author": "黃喬依",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Stts8MdieFk",
-    "title": "【MAD】ハイキュー×突破口　稲荷崎高校VS烏野高校　セリフ入り",
-    "author": "Takuto",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Stts8MdieFk",
-    "duration": "4:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Takuto）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 

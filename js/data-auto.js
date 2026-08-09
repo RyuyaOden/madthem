@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_GcRvKy0LaCI",
+    "title": "東京リベンジャーズ✖️三原色✖️千冬【東京リベンジャーズ】【東京リベンジャーズMAD】【松野　千冬】",
+    "author": "ℳまもるんだ。",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "GcRvKy0LaCI",
+    "duration": "2:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ℳまもるんだ。）。",
+    "tags": [
+      "自動取得",
+      "東京リベンジャーズ"
+    ],
+    "auto": true,
+    "anime": "東京リベンジャーズ",
+    "reading": "とうきょうりべんじゃーず"
+  },
+  {
     "id": "auto_Z2jg0-2z2os",
     "title": "【MAD】葬送のフリーレン｜虛空の迷宮｜後篇 (EP 17-28)",
     "author": "Chris Phoenix",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_kXkoRyQobXo",
-    "title": "【MAD】『HEATS』【Dragon Ball Z】",
-    "author": "うどらごん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kXkoRyQobXo",
-    "duration": "4:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（うどらごん）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボールZ"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボールZ",
-    "reading": "どらごんぼーるZ"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Z2jg0-2z2os",
+    "title": "【MAD】葬送のフリーレン｜虛空の迷宮｜後篇 (EP 17-28)",
+    "author": "Chris Phoenix",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Z2jg0-2z2os",
+    "duration": "4:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Chris Phoenix）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_nPP48lU8DKg",
     "title": "[MAD] ヴァイオレット・エヴァーガーデン[点描の唄]",
     "author": "さい",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボールZ",
     "reading": "どらごんぼーるZ"
-  },
-  {
-    "id": "auto_QSOaSisDf2Q",
-    "title": "【MAD】Gi-Ba-Ba-Bo【ぼっち・ざ・ろっく！】",
-    "author": "瀬音ちゃんねる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "QSOaSisDf2Q",
-    "duration": "1:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（瀬音ちゃんねる）。",
-    "tags": [
-      "自動取得",
-      "ぼっち・ざ・ろっく！"
-    ],
-    "auto": true,
-    "anime": "ぼっち・ざ・ろっく！",
-    "reading": "ぼっち・ざ・ろっく！"
   }
 ];
 

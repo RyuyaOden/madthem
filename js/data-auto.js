@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_4CptahRU98I",
+    "title": "【MAD】『REVIVER』【DRAGON BALL Fighter Z】",
+    "author": "うどらごん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "4CptahRU98I",
+    "duration": "5:26",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（うどらごん）。",
+    "tags": [
+      "自動取得",
+      "ソウルリヴァイヴァー"
+    ],
+    "auto": true,
+    "anime": "ソウルリヴァイヴァー",
+    "reading": "そうるりゔぁいゔぁー"
+  },
+  {
     "id": "auto_GcRvKy0LaCI",
     "title": "東京リベンジャーズ✖️三原色✖️千冬【東京リベンジャーズ】【東京リベンジャーズMAD】【松野　千冬】",
     "author": "ℳまもるんだ。",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_e6mVVrX5nsU",
-    "title": "【MAD/AMV】『いつの日か』ダンダダン×ノーティカ(メガテラ・ゼロ)",
-    "author": "芥川PIZZA",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "e6mVVrX5nsU",
-    "duration": "4:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（芥川PIZZA）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

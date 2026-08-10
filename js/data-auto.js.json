@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_nUUDMulketc",
+    "title": "【MAD/AMV】推しの子×セレナーデ",
+    "author": "エンゼルフレンチ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nUUDMulketc",
+    "duration": "3:28",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（エンゼルフレンチ）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_4CptahRU98I",
     "title": "【MAD】『REVIVER』【DRAGON BALL Fighter Z】",
     "author": "うどらごん",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "閃光",
     "reading": "せんこう"
-  },
-  {
-    "id": "auto_Ek9Eh5KUU1Q",
-    "title": "【公式】『SAKAMOTO DAYS』神々廻PV【09/24】",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ek9Eh5KUU1Q",
-    "duration": "1:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ]

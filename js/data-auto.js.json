@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gR_wNVVltIM",
+    "title": "暗殺教室MAD/かくれんぼ",
+    "author": "ヒヨコ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gR_wNVVltIM",
+    "duration": "1:44",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ヒヨコ）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_nNbbuN0ZUEU",
     "title": "【リゼロ2期完結紀念】【Re:ゼロから始める異世界生活 2nd Season】 後期 OP 前島麻由 「Long shot」MAD/AMV",
     "author": "エミリアのリゼロ チャンネル 【登録者5000人目標】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ドラゴンボール",
     "reading": "どらごんぼーる"
-  },
-  {
-    "id": "auto_SlUWuscQ8_k",
-    "title": "【MAD】暗殺教室×誰かの心臓になれたなら/[MAD] Assassination Classroom x If you can become someone's heart",
-    "author": "ハルッチchannel",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "SlUWuscQ8_k",
-    "duration": "3:24",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ハルッチchannel）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]

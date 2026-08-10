@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_nNbbuN0ZUEU",
+    "title": "【リゼロ2期完結紀念】【Re:ゼロから始める異世界生活 2nd Season】 後期 OP 前島麻由 「Long shot」MAD/AMV",
+    "author": "エミリアのリゼロ チャンネル 【登録者5000人目標】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "nNbbuN0ZUEU",
+    "duration": "4:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（エミリアのリゼロ チャンネル 【登録者5000人目標】）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活 2nd Season"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活 2nd Season",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ 2nd Season"
+  },
+  {
     "id": "auto_nUUDMulketc",
     "title": "【MAD/AMV】推しの子×セレナーデ",
     "author": "エンゼルフレンチ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_oKYcBvwYNJI",
-    "title": "【MAD】呪術廻戦&チェンソーマン×アウトサイダー(Eve)",
-    "author": "Byakuya",
-    "type": "single",
-    "genres": [
-      "ボカロ"
-    ],
-    "youtubeId": "oKYcBvwYNJI",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Byakuya）。",
-    "tags": [
-      "自動取得",
-      "閃光"
-    ],
-    "auto": true,
-    "anime": "閃光",
-    "reading": "せんこう"
   }
 ];
 

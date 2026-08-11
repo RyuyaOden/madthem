@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_ZEn8OzO87Ck",
+    "title": "「AMV 」 - The Awakening 🔥",
+    "author": "PYRON AMVs 火",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ZEn8OzO87Ck",
+    "duration": "4:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（PYRON AMVs 火）。",
+    "tags": [
+      "自動取得",
+      "末世觉醒之入侵"
+    ],
+    "auto": true,
+    "anime": "末世觉醒之入侵",
+    "reading": "まっせゆきにゅうしん"
+  },
+  {
     "id": "auto_P8JlpYJNgx8",
     "title": "【AMV】「凪のあすから」  Melody",
     "author": "DIS夜の光",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_8QAS7zplfKs",
-    "title": "SAKAMOTO DAYS [AMV||MMV]",
-    "author": "KABU",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8QAS7zplfKs",
-    "duration": "1:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（KABU）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ]

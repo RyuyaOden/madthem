@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_80RGeujbrIU",
+    "title": "【MAD】Home(22話まで)【東京リベンジャーズ】",
+    "author": "ATM",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "80RGeujbrIU",
+    "duration": "4:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ATM）。",
+    "tags": [
+      "自動取得",
+      "東京リベンジャーズ"
+    ],
+    "auto": true,
+    "anime": "東京リベンジャーズ",
+    "reading": "とうきょうりべんじゃーず"
+  },
+  {
     "id": "auto_ZEn8OzO87Ck",
     "title": "「AMV 」 - The Awakening 🔥",
     "author": "PYRON AMVs 火",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SPY×FAMILY",
     "reading": "SPY×FAMILY"
-  },
-  {
-    "id": "auto_kFqrNl26LL0",
-    "title": "【MAD】薫る花は凛と咲く/ラブレター",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "kFqrNl26LL0",
-    "duration": "3:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 

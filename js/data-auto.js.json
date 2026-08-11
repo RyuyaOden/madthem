@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_P8JlpYJNgx8",
+    "title": "【AMV】「凪のあすから」  Melody",
+    "author": "DIS夜の光",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "P8JlpYJNgx8",
+    "duration": "3:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（DIS夜の光）。",
+    "tags": [
+      "自動取得",
+      "旋律"
+    ],
+    "auto": true,
+    "anime": "旋律",
+    "reading": "せんりつ"
+  },
+  {
     "id": "auto_gR_wNVVltIM",
     "title": "暗殺教室MAD/かくれんぼ",
     "author": "ヒヨコ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_jylL_4-6rzU",
-    "title": "【登録者500人記念MAD】ドラゴンボール×かくれんぼ   ※イヤホン推奨",
-    "author": "たんこぶ塩こShow",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "jylL_4-6rzU",
-    "duration": "5:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たんこぶ塩こShow）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール",
-    "reading": "どらごんぼーる"
   }
 ]

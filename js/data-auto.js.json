@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_k0lSf8GQzOE",
+    "title": "Dr.STONE - OPENING 2 FULL [AMV] [ SANGENSHOKU] by PELICAN FANCLUB",
+    "author": "Black Dilong",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "k0lSf8GQzOE",
+    "duration": "3:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Black Dilong）。",
+    "tags": [
+      "自動取得",
+      "三原色"
+    ],
+    "auto": true,
+    "anime": "三原色",
+    "reading": "さんげんしょく"
+  },
+  {
     "id": "auto_G_9ztbmkjVg",
     "title": "【呪術廻戦】【呪術廻戦mad】ロクデナシ宇宙 宿儺VS摩虎羅戦",
     "author": "のこのこ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_Ljqnt9Z5w5s",
-    "title": "【MAD】ハイキュー‼︎(3期) × 悲しみなんて笑い飛ばせ(FUNKY MONKEY BABYS)",
-    "author": "Yuna",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Ljqnt9Z5w5s",
-    "duration": "5:12",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Yuna）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック ネオ・エゴイストリーグ"
-    ],
-    "auto": true,
-    "anime": "ブルーロック ネオ・エゴイストリーグ",
-    "reading": "ぶるーろっく ねお・えごいすとりーぐ"
   }
 ]

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_gHL7SnBCesc",
+    "title": "【MAD/AMV】チェンソーマン －ファイトソング (Fight Song) by Eve (with karaoke sub)",
+    "author": "#踏板已經很努力了",
+    "type": "single",
+    "genres": [
+      "ボカロ"
+    ],
+    "youtubeId": "gHL7SnBCesc",
+    "duration": "3:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（#踏板已經很努力了）。",
+    "tags": [
+      "自動取得",
+      "ファイトソング"
+    ],
+    "auto": true,
+    "anime": "ファイトソング",
+    "reading": "ふぁいとそんぐ"
+  },
+  {
     "id": "auto_k0lSf8GQzOE",
     "title": "Dr.STONE - OPENING 2 FULL [AMV] [ SANGENSHOKU] by PELICAN FANCLUB",
     "author": "Black Dilong",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_hg12GHngOjs",
-    "title": "【MAD】東京リベンジャーズ×あなたの夜が明けるまで（※ネタバレ注意）",
-    "author": "推しちゃん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "hg12GHngOjs",
-    "duration": "4:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（推しちゃん）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 

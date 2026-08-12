@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_G_9ztbmkjVg",
+    "title": "【呪術廻戦】【呪術廻戦mad】ロクデナシ宇宙 宿儺VS摩虎羅戦",
+    "author": "のこのこ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "G_9ztbmkjVg",
+    "duration": "2:35",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のこのこ）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_80RGeujbrIU",
     "title": "【MAD】Home(22話まで)【東京リベンジャーズ】",
     "author": "ATM",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック ネオ・エゴイストリーグ",
     "reading": "ぶるーろっく ねお・えごいすとりーぐ"
-  },
-  {
-    "id": "auto_reokBA4v-0Q",
-    "title": "【SPY×FAMILY】×【サウダージ】mad",
-    "author": "しろねこ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "reokBA4v-0Q",
-    "duration": "4:11",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しろねこ）。",
-    "tags": [
-      "自動取得",
-      "SPY×FAMILY"
-    ],
-    "auto": true,
-    "anime": "SPY×FAMILY",
-    "reading": "SPY×FAMILY"
   }
 ];
 

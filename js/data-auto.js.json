@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Odt-Y2DCaNE",
+    "title": "【MAD】　炎炎ノ消防隊　「無告」【AMV】",
+    "author": "BomB",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Odt-Y2DCaNE",
+    "duration": "4:14",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（BomB）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_rKJ-DLIEiY4",
     "title": "【MAD】Dr.STONE×あとひとつ",
     "author": "アシガラ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_YKyCw6T5hUI",
-    "title": "【MAD】暗殺教室×おどりゃんせ",
-    "author": "レーミーフーラー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "YKyCw6T5hUI",
-    "duration": "3:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（レーミーフーラー）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]

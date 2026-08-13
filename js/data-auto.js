@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rKJ-DLIEiY4",
+    "title": "【MAD】Dr.STONE×あとひとつ",
+    "author": "アシガラ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rKJ-DLIEiY4",
+    "duration": "6:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アシガラ）。",
+    "tags": [
+      "自動取得",
+      "Dr.STONE"
+    ],
+    "auto": true,
+    "anime": "Dr.STONE",
+    "reading": "Dr.STONE"
+  },
+  {
     "id": "auto_Yw2bTIUll-E",
     "title": "魔法少女まどか☆マギカMAD【No title】",
     "author": "山葉正太郎",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_Sl1VVQZN1ZE",
-    "title": "【MAD】推しの子×ハルジオン",
-    "author": "F - Toaru  Railgun fan",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Sl1VVQZN1ZE",
-    "duration": "3:16",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（F - Toaru  Railgun fan）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 

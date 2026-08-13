@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Yw2bTIUll-E",
+    "title": "魔法少女まどか☆マギカMAD【No title】",
+    "author": "山葉正太郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Yw2bTIUll-E",
+    "duration": "4:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（山葉正太郎）。",
+    "tags": [
+      "自動取得",
+      "魔法少女まどか☆マギカ"
+    ],
+    "auto": true,
+    "anime": "魔法少女まどか☆マギカ",
+    "reading": "まほうしょうじょまどか☆まぎか"
+  },
+  {
     "id": "auto_gHL7SnBCesc",
     "title": "【MAD/AMV】チェンソーマン －ファイトソング (Fight Song) by Eve (with karaoke sub)",
     "author": "#踏板已經很努力了",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Lrt5lblybd8",
-    "title": "呪術廻戦× NO SCARED【静止画MAD】※ネタバレ注意",
-    "author": "狛磨。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Lrt5lblybd8",
-    "duration": "3:37",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（狛磨。）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ]

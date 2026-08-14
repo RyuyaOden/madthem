@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_gBaM6e3-5lY",
+    "title": "【MAD】アニメ「ポケットモンスター ライジングアゲイン」×偽物勇者／703号室【アニポケ】",
+    "author": "おいうえお",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gBaM6e3-5lY",
+    "duration": "3:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（おいうえお）。",
+    "tags": [
+      "自動取得",
+      "アニメ モンスターストライク"
+    ],
+    "auto": true,
+    "anime": "アニメ モンスターストライク",
+    "reading": "あにめ もんすたーすとらいく"
+  },
+  {
     "id": "auto_HUZMjrAEOo0",
     "title": "約束のネバーランドMAD【ハルジオン】",
     "author": "vaizu",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "SPY×FAMILY",
     "reading": "SPY×FAMILY"
-  },
-  {
-    "id": "auto_QzzP2X8Aofc",
-    "title": "BURNOUT SYNDROMES 『ROCKET』 Music Video (『Dr.STONE Ryusui』 Opening Theme)",
-    "author": "BURNOUT SYNDROMES Official YouTube Channel",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "QzzP2X8Aofc",
-    "duration": "3:45",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（BURNOUT SYNDROMES Official YouTube Channel）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE 龍水"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE 龍水",
-    "reading": "Dr.STONE りゅうみず"
   }
 ];
 

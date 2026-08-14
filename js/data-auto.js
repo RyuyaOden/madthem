@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_HUZMjrAEOo0",
+    "title": "約束のネバーランドMAD【ハルジオン】",
+    "author": "vaizu",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "HUZMjrAEOo0",
+    "duration": "1:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（vaizu）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_Odt-Y2DCaNE",
     "title": "【MAD】　炎炎ノ消防隊　「無告」【AMV】",
     "author": "BomB",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE 龍水",
     "reading": "Dr.STONE りゅうみず"
-  },
-  {
-    "id": "auto_UC7tDrF3i7w",
-    "title": "聲の形 【贖罪】MAD",
-    "author": "かなつ.",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "UC7tDrF3i7w",
-    "duration": "4:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（かなつ.）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 

@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_UMejUI7BLdA",
+    "title": "Cyberpunk Edgerunners / bgm ワールドエンドガールフレンド Radwimps",
+    "author": "Polipolidadada",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "UMejUI7BLdA",
+    "duration": "3:10",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Polipolidadada）。",
+    "tags": [
+      "自動取得",
+      "サイバーパンク エッジランナーズ"
+    ],
+    "auto": true,
+    "anime": "サイバーパンク エッジランナーズ",
+    "reading": "さいばーぱんく えっじらんなーず"
+  },
+  {
     "id": "auto_gBaM6e3-5lY",
     "title": "【MAD】アニメ「ポケットモンスター ライジングアゲイン」×偽物勇者／703号室【アニポケ】",
     "author": "おいうえお",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_krBIotNcC2w",
-    "title": "TVアニメ『SPY×FAMILY』Season 3×幾田りら「Actor」スペシャルムービー』",
-    "author": "TOHO animation チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "krBIotNcC2w",
-    "duration": "4:02",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
-    "tags": [
-      "自動取得",
-      "SPY×FAMILY"
-    ],
-    "auto": true,
-    "anime": "SPY×FAMILY",
-    "reading": "SPY×FAMILY"
   }
 ]

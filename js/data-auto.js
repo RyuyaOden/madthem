@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_sYodoPZ9Ets",
+    "title": "【MAD】呪術廻戦/AIZO",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "sYodoPZ9Ets",
+    "duration": "3:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "呪術廻戦"
+    ],
+    "auto": true,
+    "anime": "呪術廻戦",
+    "reading": "じゅじゅつかいせん"
+  },
+  {
     "id": "auto_UMejUI7BLdA",
     "title": "Cyberpunk Edgerunners / bgm ワールドエンドガールフレンド Radwimps",
     "author": "Polipolidadada",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_ypypZFF1K_c",
-    "title": "【静止画MAD】ブルーロック【我武者羅】",
-    "author": "koi鯉",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "ypypZFF1K_c",
-    "duration": "1:35",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（koi鯉）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 

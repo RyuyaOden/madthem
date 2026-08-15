@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_XOj7dQcrhOc",
+    "title": "The Apothecary Diaries/薬屋のひとりごと - AMV/MAD - dando demo/何度でも",
+    "author": "SunnyLime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "XOj7dQcrhOc",
+    "duration": "3:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SunnyLime）。",
+    "tags": [
+      "自動取得",
+      "薬屋のひとりごと"
+    ],
+    "auto": true,
+    "anime": "薬屋のひとりごと",
+    "reading": "くすりやのひとりごと"
+  },
+  {
     "id": "auto_yHx0Fm4hQPQ",
     "title": "【MAD】モブサイコでの俺が好きなシーン寄せ集め part3【モブサイコ100】【セリフ入りMAD】",
     "author": "とっとこﾊﾙ太郎",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "コードギアス 奪還のロゼ",
     "reading": "こーどぎあす だっかんのろぜ"
-  },
-  {
-    "id": "auto_DThnaTdeGxc",
-    "title": "【MAD】僕のヒーローアカデミア × 灰色と青 cover",
-    "author": "無個性のエキア",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DThnaTdeGxc",
-    "duration": "5:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（無個性のエキア）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 

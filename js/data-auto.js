@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_yHx0Fm4hQPQ",
+    "title": "【MAD】モブサイコでの俺が好きなシーン寄せ集め part3【モブサイコ100】【セリフ入りMAD】",
+    "author": "とっとこﾊﾙ太郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "yHx0Fm4hQPQ",
+    "duration": "2:40",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（とっとこﾊﾙ太郎）。",
+    "tags": [
+      "自動取得",
+      "モブサイコ100"
+    ],
+    "auto": true,
+    "anime": "モブサイコ100",
+    "reading": "もぶさいこ100"
+  },
+  {
     "id": "auto_sYodoPZ9Ets",
     "title": "【MAD】呪術廻戦/AIZO",
     "author": "ねむねこ【MAD】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_Vvm4a9D9bBI",
-    "title": "【静止画MAD】ダンダダン / 灯火",
-    "author": "ぶるーべ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Vvm4a9D9bBI",
-    "duration": "2:07",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぶるーべ）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

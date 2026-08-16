@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_BQOfwa5TCqw",
+    "title": "蘭春 MAD 【君に届け】",
+    "author": "k O",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BQOfwa5TCqw",
+    "duration": "5:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（k O）。",
+    "tags": [
+      "自動取得",
+      "君に届け"
+    ],
+    "auto": true,
+    "anime": "君に届け",
+    "reading": "くんにとどけ"
+  },
+  {
     "id": "auto_Qg0prWizHhQ",
     "title": "『デート・ア・ライブ』 オープニング映像｜10周年記念！シリーズＯＰ映像リバイバル配信！",
     "author": "KADOKAWAanime",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "怪獣8号 保科の休日",
     "reading": "かいじゅう8ごう ほしなのきゅうじつ"
-  },
-  {
-    "id": "auto_4JJ3hG6vxhk",
-    "title": "【MAD】Fate/Series - Shikisai「色彩」 by Maaya Sakamoto 「坂本 真綾」",
-    "author": "Iris Mind",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "4JJ3hG6vxhk",
-    "duration": "4:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Iris Mind）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ];
 

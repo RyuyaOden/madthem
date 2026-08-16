@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Qg0prWizHhQ",
+    "title": "『デート・ア・ライブ』 オープニング映像｜10周年記念！シリーズＯＰ映像リバイバル配信！",
+    "author": "KADOKAWAanime",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Qg0prWizHhQ",
+    "duration": "1:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（KADOKAWAanime）。",
+    "tags": [
+      "自動取得",
+      "デート・ア・ライブ"
+    ],
+    "auto": true,
+    "anime": "デート・ア・ライブ",
+    "reading": "でーと・あ・らいぶ"
+  },
+  {
     "id": "auto_-q7fZBGxC1w",
     "title": "【MAD】鉄血のオルフェンズ×REVIVERを作ってみた【AMV】",
     "author": "流行・人気動画集",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_060AJ_kx5fs",
-    "title": "格闘(Fighting) 作画 sakuga MAD",
-    "author": "みやしたかいと Miyashita Kaito",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "060AJ_kx5fs",
-    "duration": "3:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（みやしたかいと Miyashita Kaito）。",
-    "tags": [
-      "自動取得",
-      "バトルスピリッツ　龍虎の拳"
-    ],
-    "auto": true,
-    "anime": "バトルスピリッツ　龍虎の拳",
-    "reading": "ばとるすぴりっつ　りゅうこのこぶし"
   }
 ]

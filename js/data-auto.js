@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_-q7fZBGxC1w",
+    "title": "【MAD】鉄血のオルフェンズ×REVIVERを作ってみた【AMV】",
+    "author": "流行・人気動画集",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "-q7fZBGxC1w",
+    "duration": "4:49",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（流行・人気動画集）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_XOj7dQcrhOc",
     "title": "The Apothecary Diaries/薬屋のひとりごと - AMV/MAD - dando demo/何度でも",
     "author": "SunnyLime",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "バトルスピリッツ　龍虎の拳",
     "reading": "ばとるすぴりっつ　りゅうこのこぶし"
-  },
-  {
-    "id": "auto_0k9KVwExieU",
-    "title": "【MAD】コードギアス/嘘 -シド セリフ入り",
-    "author": "コロニースペース",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0k9KVwExieU",
-    "duration": "3:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（コロニースペース）。",
-    "tags": [
-      "自動取得",
-      "コードギアス 奪還のロゼ"
-    ],
-    "auto": true,
-    "anime": "コードギアス 奪還のロゼ",
-    "reading": "こーどぎあす だっかんのろぜ"
   }
 ];
 

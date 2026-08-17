@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_xi2MSFNE980",
+    "title": "ルーシー(サイバーパンク)が心の底から好きな人たちの反応集【曇らせ】【エッジランナーズ】【サイバーパンク2077】",
+    "author": "田吾与作ちゃんねる",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "xi2MSFNE980",
+    "duration": "8:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（田吾与作ちゃんねる）。",
+    "tags": [
+      "自動取得",
+      "サイバーパンク エッジランナーズ"
+    ],
+    "auto": true,
+    "anime": "サイバーパンク エッジランナーズ",
+    "reading": "さいばーぱんく えっじらんなーず"
+  },
+  {
     "id": "auto_nChmNuX2jHI",
     "title": "【AMV/MAD】鬼滅の刃×「太陽が昇らない世界」(Aimer)",
     "author": "青りんご【MAD】",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ドラゴンボール超 ブロリー",
     "reading": "どらごんぼーるちょう ぶろりー"
-  },
-  {
-    "id": "auto_wJ21qxKHeeE",
-    "title": "【MAD】「W/X/Y」薬屋のひとりごと",
-    "author": "ズシ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "wJ21qxKHeeE",
-    "duration": "4:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ズシ）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 

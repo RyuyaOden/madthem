@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_J-lrm62YWro",
+    "title": "【MAD】デート・ア・ライブ×誰かの心臓になれたなら(歌詞付き)",
+    "author": "綾小路鷹丸",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "J-lrm62YWro",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（綾小路鷹丸）。",
+    "tags": [
+      "自動取得",
+      "デート・ア・ライブ"
+    ],
+    "auto": true,
+    "anime": "デート・ア・ライブ",
+    "reading": "でーと・あ・らいぶ"
+  },
+  {
     "id": "auto_xi2MSFNE980",
     "title": "ルーシー(サイバーパンク)が心の底から好きな人たちの反応集【曇らせ】【エッジランナーズ】【サイバーパンク2077】",
     "author": "田吾与作ちゃんねる",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_CxgoBGpMX_Q",
-    "title": "【MAD/AMV】ドラゴンボール超ブロリー×Bloodlines〜運命の血統〜",
-    "author": "陰キャ社長",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "CxgoBGpMX_Q",
-    "duration": "4:05",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（陰キャ社長）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボール超 ブロリー"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボール超 ブロリー",
-    "reading": "どらごんぼーるちょう ぶろりー"
   }
 ]

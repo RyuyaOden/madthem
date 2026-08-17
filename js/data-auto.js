@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_nChmNuX2jHI",
+    "title": "【AMV/MAD】鬼滅の刃×「太陽が昇らない世界」(Aimer)",
+    "author": "青りんご【MAD】",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "nChmNuX2jHI",
+    "duration": "2:44",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（青りんご【MAD】）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_BQOfwa5TCqw",
     "title": "蘭春 MAD 【君に届け】",
     "author": "k O",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_dD4d8cczVUk",
-    "title": "【MAD/AMV】怪獣8号/KAIJU No.EIGHT －'Monster'－LIL LEAGUE－",
-    "author": "トリッピー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dD4d8cczVUk",
-    "duration": "2:48",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（トリッピー）。",
-    "tags": [
-      "自動取得",
-      "怪獣8号 保科の休日"
-    ],
-    "auto": true,
-    "anime": "怪獣8号 保科の休日",
-    "reading": "かいじゅう8ごう ほしなのきゅうじつ"
   }
 ];
 

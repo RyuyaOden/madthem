@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_goU-hGMCjCY",
+    "title": "アニメ『サイバーパンク: エッジランナーズ2』公式ティーザー2",
+    "author": "CD PROJEKT RED JAPAN",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "goU-hGMCjCY",
+    "duration": "1:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（CD PROJEKT RED JAPAN）。",
+    "tags": [
+      "自動取得",
+      "サイバーパンク: エッジランナーズ2"
+    ],
+    "auto": true,
+    "anime": "サイバーパンク: エッジランナーズ2",
+    "reading": "さいばーぱんく: えっじらんなーず2"
+  },
+  {
     "id": "auto_5imxA1HxlbU",
     "title": "[ AMV - MAD ] ジャングルの王者ターちゃん [ B∀G / HEARTの形状 ]",
     "author": "Asta",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_Bu47zI7J9MI",
-    "title": "【MAD】Fate/Grand Order 8周年記念「躍動」",
-    "author": "スノウ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Bu47zI7J9MI",
-    "duration": "4:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（スノウ）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_5imxA1HxlbU",
+    "title": "[ AMV - MAD ] ジャングルの王者ターちゃん [ B∀G / HEARTの形状 ]",
+    "author": "Asta",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "5imxA1HxlbU",
+    "duration": "4:11",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Asta）。",
+    "tags": [
+      "自動取得",
+      "ジャングルの王者ターちゃん"
+    ],
+    "auto": true,
+    "anime": "ジャングルの王者ターちゃん",
+    "reading": "じゃんぐるのおうじゃたーちゃん"
+  },
+  {
     "id": "auto_J-lrm62YWro",
     "title": "【MAD】デート・ア・ライブ×誰かの心臓になれたなら(歌詞付き)",
     "author": "綾小路鷹丸",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_td9whlVtdVY",
-    "title": "【MAD】ダンダダン／優しい世界へ【AI／ママへ】【高画質】【感動】【アニメ】",
-    "author": "たじゅくんch",
-    "type": "single",
-    "genres": [
-      "バラード"
-    ],
-    "youtubeId": "td9whlVtdVY",
-    "duration": "2:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（たじゅくんch）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ];
 

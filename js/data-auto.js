@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_BJILnuXJQVE",
+    "title": "【MAD】黒子のバスケ×青と夏",
+    "author": "いなりだお",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "BJILnuXJQVE",
+    "duration": "4:31",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（いなりだお）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_goU-hGMCjCY",
     "title": "アニメ『サイバーパンク: エッジランナーズ2』公式ティーザー2",
     "author": "CD PROJEKT RED JAPAN",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_ethLCIajQIc",
-    "title": "【MAD】【推しの子】/メフィスト -女王蜂-",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "ethLCIajQIc",
-    "duration": "3:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 

@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_TDBbEwe9a8o",
+    "title": "【MAD】傷物語×錠剤",
+    "author": "とっとこﾊﾙ太郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "TDBbEwe9a8o",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（とっとこﾊﾙ太郎）。",
+    "tags": [
+      "自動取得",
+      "傷物語 -こよみヴァンプ-"
+    ],
+    "auto": true,
+    "anime": "傷物語 -こよみヴァンプ-",
+    "reading": "きずものご -こよみゔぁんぷ-"
+  },
+  {
     "id": "auto_BJILnuXJQVE",
     "title": "【MAD】黒子のバスケ×青と夏",
     "author": "いなりだお",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ブルーロック",
     "reading": "ぶるーろっく"
-  },
-  {
-    "id": "auto_WcV7eQcjXks",
-    "title": "【MAD/AMV】薬屋のひとりごと×未完成【セリフ･歌詞入り】【高画質】",
-    "author": "haruneco",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "WcV7eQcjXks",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（haruneco）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ]

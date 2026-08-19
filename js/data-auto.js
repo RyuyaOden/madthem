@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_IrgpJIthH7k",
+    "title": "【MAD】オッドタクシーで火曜サスペンス劇場【オッドタクシー】",
+    "author": "抹茶箱",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "IrgpJIthH7k",
+    "duration": "1:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（抹茶箱）。",
+    "tags": [
+      "自動取得",
+      "オッドタクシー"
+    ],
+    "auto": true,
+    "anime": "オッドタクシー",
+    "reading": "おっどたくしー"
+  },
+  {
     "id": "auto_TDBbEwe9a8o",
     "title": "【MAD】傷物語×錠剤",
     "author": "とっとこﾊﾙ太郎",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_6TlIjaR8bMA",
-    "title": "【AMV/MAD】ブルーロック×カオス極まる 【 チームV戦】",
-    "author": "datch",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "6TlIjaR8bMA",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（datch）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック"
-    ],
-    "auto": true,
-    "anime": "ブルーロック",
-    "reading": "ぶるーろっく"
   }
 ];
 

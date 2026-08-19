@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_GTsEREj17Xc",
+    "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」「Episode1 Parody」【MAD】",
+    "author": "ボコチャンネル【Boko channel】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "GTsEREj17Xc",
+    "duration": "2:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ボコチャンネル【Boko channel】）。",
+    "tags": [
+      "自動取得",
+      "リコリス・リコイル Friends are thieves of time."
+    ],
+    "auto": true,
+    "anime": "リコリス・リコイル Friends are thieves of time.",
+    "reading": "りこりす・りこいる Friends are thieves of time."
+  },
+  {
     "id": "auto_IrgpJIthH7k",
     "title": "【MAD】オッドタクシーで火曜サスペンス劇場【オッドタクシー】",
     "author": "抹茶箱",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ダンダダン",
     "reading": "だんだだん"
-  },
-  {
-    "id": "auto_IzTgyVi9pzQ",
-    "title": "【MAD】東京リベンジャーズ【脱法ロック】",
-    "author": "Akash1ya",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "IzTgyVi9pzQ",
-    "duration": "3:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Akash1ya）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]

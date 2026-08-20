@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_KyRziWzPbLo",
+    "title": "【MAD】黒子のバスケ×決戦スピリット【黒子のバスケ】【HoneyWorks】",
+    "author": "もやし牛丼",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "KyRziWzPbLo",
+    "duration": "4:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（もやし牛丼）。",
+    "tags": [
+      "自動取得",
+      "黒子のバスケ"
+    ],
+    "auto": true,
+    "anime": "黒子のバスケ",
+    "reading": "くろこのばすけ"
+  },
+  {
     "id": "auto_5n1t5anwRPA",
     "title": "【MAD】stay alive - エミリア（Re:ゼロから始める異世界生活）/天元突破グレンラガン",
     "author": "バナナドラゴンポーカー",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ドラゴンボールZ",
     "reading": "どらごんぼーるZ"
-  },
-  {
-    "id": "auto_DIxxPsQ44kE",
-    "title": "【MAD/AMV】怪獣８号/懐色、虚色 【超高画質】",
-    "author": "TAKA-ロウ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "DIxxPsQ44kE",
-    "duration": "2:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TAKA-ロウ）。",
-    "tags": [
-      "自動取得",
-      "怪獣８号"
-    ],
-    "auto": true,
-    "anime": "怪獣８号",
-    "reading": "かいじゅう８ごう"
   }
 ]

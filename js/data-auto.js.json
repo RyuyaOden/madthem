@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_5n1t5anwRPA",
+    "title": "【MAD】stay alive - エミリア（Re:ゼロから始める異世界生活）/天元突破グレンラガン",
+    "author": "バナナドラゴンポーカー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "5n1t5anwRPA",
+    "duration": "1:30",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（バナナドラゴンポーカー）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_GTsEREj17Xc",
     "title": "ショートムービー「リコリス・リコイル Friends are thieves of time.」「Episode1 Parody」【MAD】",
     "author": "ボコチャンネル【Boko channel】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "怪獣８号",
     "reading": "かいじゅう８ごう"
-  },
-  {
-    "id": "auto_afwtolXB3Ck",
-    "title": "『ダンダダン』杉田智和「俺は諦めない！！」-ウィリアム・テル序曲&天国と地獄-",
-    "author": "なんかやる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "afwtolXB3Ck",
-    "duration": "2:32",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（なんかやる）。",
-    "tags": [
-      "自動取得",
-      "ダンダダン"
-    ],
-    "auto": true,
-    "anime": "ダンダダン",
-    "reading": "だんだだん"
   }
 ]

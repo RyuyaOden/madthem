@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_6cdgciiqTLM",
+    "title": "【ヘッドフォン推奨】暗殺教室/劣等上等【神MAD】【高画質】【暗殺教室】【劣等上等】",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6cdgciiqTLM",
+    "duration": "4:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "暗殺教室"
+    ],
+    "auto": true,
+    "anime": "暗殺教室",
+    "reading": "あんさつきょうしつ"
+  },
+  {
     "id": "auto_KyRziWzPbLo",
     "title": "【MAD】黒子のバスケ×決戦スピリット【黒子のバスケ】【HoneyWorks】",
     "author": "もやし牛丼",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "遠吠え",
     "reading": "とおぼええ"
-  },
-  {
-    "id": "auto_-9u1-zME4uw",
-    "title": "DRAGON BALL Z/人造人間・セル編",
-    "author": "ぞわ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-9u1-zME4uw",
-    "duration": "2:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぞわ）。",
-    "tags": [
-      "自動取得",
-      "ドラゴンボールZ"
-    ],
-    "auto": true,
-    "anime": "ドラゴンボールZ",
-    "reading": "どらごんぼーるZ"
   }
 ]

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_K4Rip1fjlC8",
+    "title": "【あの花】×【メトロノーム】mad",
+    "author": "。ひらち",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "K4Rip1fjlC8",
+    "duration": "2:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（。ひらち）。",
+    "tags": [
+      "自動取得",
+      "メトロノーム"
+    ],
+    "auto": true,
+    "anime": "メトロノーム",
+    "reading": "めとろのーむ"
+  },
+  {
     "id": "auto_NHdC0FUGP-w",
     "title": "【MAD】魔法少女まどか☆マギカ[新編]叛逆の物語",
     "author": "MAD shine",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!!",
     "reading": "はいきゅー!!"
-  },
-  {
-    "id": "auto_gXT914TaBfI",
-    "title": "【MAD】メダリスト/BOW AND ARROW",
-    "author": "ねむねこ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "gXT914TaBfI",
-    "duration": "3:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "メダリスト"
-    ],
-    "auto": true,
-    "anime": "メダリスト",
-    "reading": "めだりすと"
   }
 ];
 

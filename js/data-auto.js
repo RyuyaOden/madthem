@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_2vEquJYZrX8",
+    "title": "[MAD]　魔法少女まどか☆マギカ　[本気の嘘 Ver.true heart]",
+    "author": "puru",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "2vEquJYZrX8",
+    "duration": "4:55",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（puru）。",
+    "tags": [
+      "自動取得",
+      "魔法少女まどか☆マギカ"
+    ],
+    "auto": true,
+    "anime": "魔法少女まどか☆マギカ",
+    "reading": "まほうしょうじょまどか☆まぎか"
+  },
+  {
     "id": "auto_K4Rip1fjlC8",
     "title": "【あの花】×【メトロノーム】mad",
     "author": "。ひらち",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_lGtSPES_N4c",
-    "title": "【MAD】ハイキュー!!×アンヘル「稲荷崎戦/宮兄弟」",
-    "author": "るう",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "lGtSPES_N4c",
-    "duration": "3:36",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（るう）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!!"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!!",
-    "reading": "はいきゅー!!"
   }
 ];
 

@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_NHdC0FUGP-w",
+    "title": "【MAD】魔法少女まどか☆マギカ[新編]叛逆の物語",
+    "author": "MAD shine",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "NHdC0FUGP-w",
+    "duration": "4:01",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MAD shine）。",
+    "tags": [
+      "自動取得",
+      "劇場版 魔法少女まどか☆マギカ 叛逆の物語"
+    ],
+    "auto": true,
+    "anime": "劇場版 魔法少女まどか☆マギカ 叛逆の物語",
+    "reading": "げきじょうばん まほうしょうじょまどか☆まぎか はんぎゃくのものがたり"
+  },
+  {
     "id": "auto_6cdgciiqTLM",
     "title": "【ヘッドフォン推奨】暗殺教室/劣等上等【神MAD】【高画質】【暗殺教室】【劣等上等】",
     "author": "ねむねこ【MAD】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "メダリスト",
     "reading": "めだりすと"
-  },
-  {
-    "id": "auto_qdcqozOJaAg",
-    "title": "【Chainsaw Man - The Movie: Reze Arc】tablet（TOOBOE）×Reze【anime edit】English subtitles",
-    "author": "すみれ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "qdcqozOJaAg",
-    "duration": "1:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（すみれ）。",
-    "tags": [
-      "自動取得",
-      "遠吠え"
-    ],
-    "auto": true,
-    "anime": "遠吠え",
-    "reading": "とおぼええ"
   }
 ]

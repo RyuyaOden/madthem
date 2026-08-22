@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_JEt9PDpJoTU",
+    "title": "[OP風MAD]ガンダム鉄血のオルフェンズ×Period[鋼の錬金術師 FULLMETAL ALCHEMIST]",
+    "author": "ナガレアオMADチャンネル",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "JEt9PDpJoTU",
+    "duration": "1:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ナガレアオMADチャンネル）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_2vEquJYZrX8",
     "title": "[MAD]　魔法少女まどか☆マギカ　[本気の嘘 Ver.true heart]",
     "author": "puru",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "Dr.STONE",
     "reading": "Dr.STONE"
-  },
-  {
-    "id": "auto_z9LDBp5In7Y",
-    "title": "【MAD/AMV】葬送のフリーレン×Mrs.GREEN APPLE / lulu.",
-    "author": "アニオタくんの部屋",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "z9LDBp5In7Y",
-    "duration": "4:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（アニオタくんの部屋）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 

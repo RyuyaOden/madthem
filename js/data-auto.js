@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_52fZY7WHNu0",
+    "title": "【MAD】やはり俺の青春ラブコメはまちがっている。「エブリデイワールド」",
+    "author": "比良坂P",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "52fZY7WHNu0",
+    "duration": "4:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（比良坂P）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_JEt9PDpJoTU",
     "title": "[OP風MAD]ガンダム鉄血のオルフェンズ×Period[鋼の錬金術師 FULLMETAL ALCHEMIST]",
     "author": "ナガレアオMADチャンネル",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "天元突破グレンラガン",
     "reading": "てんげんとっぱぐれんらがん"
-  },
-  {
-    "id": "auto_rJuZY2-V-GQ",
-    "title": "【手描き】 Q 【dcst】",
-    "author": "元素の集まり",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "rJuZY2-V-GQ",
-    "duration": "4:22",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（元素の集まり）。",
-    "tags": [
-      "自動取得",
-      "Dr.STONE"
-    ],
-    "auto": true,
-    "anime": "Dr.STONE",
-    "reading": "Dr.STONE"
   }
 ];
 

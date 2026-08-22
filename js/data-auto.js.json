@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_mWrlmI7zZwU",
+    "title": "【鬼滅の刃】未完成×かまぼこ隊【MAD/AMV】demon slayer:kimetsu no yaiba",
+    "author": "はりねずみ太郎",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "mWrlmI7zZwU",
+    "duration": "3:59",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（はりねずみ太郎）。",
+    "tags": [
+      "自動取得",
+      "鬼滅の刃"
+    ],
+    "auto": true,
+    "anime": "鬼滅の刃",
+    "reading": "おにほろのは"
+  },
+  {
     "id": "auto_52fZY7WHNu0",
     "title": "【MAD】やはり俺の青春ラブコメはまちがっている。「エブリデイワールド」",
     "author": "比良坂P",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto_8iZNA71pMo0",
-    "title": "【MAD/AMV】天元突破グレンラガン「カナリヤ」【紅蓮篇】",
-    "author": "haya naya",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8iZNA71pMo0",
-    "duration": "4:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（haya naya）。",
-    "tags": [
-      "自動取得",
-      "天元突破グレンラガン"
-    ],
-    "auto": true,
-    "anime": "天元突破グレンラガン",
-    "reading": "てんげんとっぱぐれんらがん"
   }
 ]

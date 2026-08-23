@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_jEu0Y6NaRlI",
+    "title": "ヴァイオレットエヴァーガーデンmad 【夜に駆ける】",
+    "author": "NAOYA okamoto",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "jEu0Y6NaRlI",
+    "duration": "4:19",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（NAOYA okamoto）。",
+    "tags": [
+      "自動取得",
+      "夜に駆ける"
+    ],
+    "auto": true,
+    "anime": "夜に駆ける",
+    "reading": "よるにかける"
+  },
+  {
     "id": "auto_Cd5xP0RfApA",
     "title": "【MAD】『鋼のサバイバー~Drei Kreuz~』悟空&ベジータ【Dragon Ball】",
     "author": "うどらごん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_q7dH6tCD2Hg",
-    "title": "【MAD】チェンソーマン×酔いどれ知らず",
-    "author": "Koharu",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "q7dH6tCD2Hg",
-    "duration": "2:15",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Koharu）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_FiP6NoljJ_k",
+    "title": "【音MAD】残酷な店主のテーゼ【新世紀エヴァンゲリオン】",
+    "author": "なもさん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "FiP6NoljJ_k",
+    "duration": "2:03",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（なもさん）。",
+    "tags": [
+      "自動取得",
+      "新世紀エヴァンゲリオン"
+    ],
+    "auto": true,
+    "anime": "新世紀エヴァンゲリオン",
+    "reading": "しんせいきえゔぁんげりおん"
+  },
+  {
     "id": "auto_jEu0Y6NaRlI",
     "title": "ヴァイオレットエヴァーガーデンmad 【夜に駆ける】",
     "author": "NAOYA okamoto",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ベイビーアイラブユーだぜ",
     "reading": "べいびーあいらぶゆーだぜ"
-  },
-  {
-    "id": "auto_SvfbcPNyGC8",
-    "title": "暗殺教室×プライド革命 MAD",
-    "author": "ATMチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "SvfbcPNyGC8",
-    "duration": "3:52",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ATMチャンネル）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 

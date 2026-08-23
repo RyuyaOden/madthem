@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Cd5xP0RfApA",
+    "title": "【MAD】『鋼のサバイバー~Drei Kreuz~』悟空&ベジータ【Dragon Ball】",
+    "author": "うどらごん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Cd5xP0RfApA",
+    "duration": "3:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（うどらごん）。",
+    "tags": [
+      "自動取得",
+      "ドラゴンボール"
+    ],
+    "auto": true,
+    "anime": "ドラゴンボール",
+    "reading": "どらごんぼーる"
+  },
+  {
     "id": "auto_mWrlmI7zZwU",
     "title": "【鬼滅の刃】未完成×かまぼこ隊【MAD/AMV】demon slayer:kimetsu no yaiba",
     "author": "はりねずみ太郎",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_BrgS51YAX_8",
-    "title": "SAKAMOTO DAYS  | ORIGINAL MANGA FAN ANIMATION BY  @antikxge ​",
-    "author": "Antikxge",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "BrgS51YAX_8",
-    "duration": "1:01",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Antikxge）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ]

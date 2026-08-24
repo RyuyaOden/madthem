@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_oqXl2fawTPo",
+    "title": "【MAD】四月は君の嘘【real escape】",
+    "author": "official metro polica",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "oqXl2fawTPo",
+    "duration": "5:17",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（official metro polica）。",
+    "tags": [
+      "自動取得",
+      "四月は君の嘘"
+    ],
+    "auto": true,
+    "anime": "四月は君の嘘",
+    "reading": "しがつはくんのうそ"
+  },
+  {
     "id": "auto_x0D_fepuEbA",
     "title": "【MAD】天気の子×RAIN",
     "author": "りょーくん",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_RjgVidiCs2o",
-    "title": "【MAD】僕のヒーローアカデミア×贖罪 爆豪勝己",
-    "author": "無個性のエキア",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "RjgVidiCs2o",
-    "duration": "4:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（無個性のエキア）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ]

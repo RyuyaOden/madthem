@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_x0D_fepuEbA",
+    "title": "【MAD】天気の子×RAIN",
+    "author": "りょーくん",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "x0D_fepuEbA",
+    "duration": "5:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（りょーくん）。",
+    "tags": [
+      "自動取得",
+      "天気の子"
+    ],
+    "auto": true,
+    "anime": "天気の子",
+    "reading": "てんきのこ"
+  },
+  {
     "id": "auto_fNvN-0Pxyx4",
     "title": "【リズム天国】ぼっち・ざ・リミックス【ぼっち・ざ・ろっく!】",
     "author": "もたち / ももり",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto__YIuYT3p2eg",
-    "title": "【東京リベンジャーズ】三天戦争 - REVIVER 【静止画MAD】",
-    "author": "青葉",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_YIuYT3p2eg",
-    "duration": "3:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（青葉）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ]

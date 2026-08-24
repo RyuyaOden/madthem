@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_fNvN-0Pxyx4",
+    "title": "【リズム天国】ぼっち・ざ・リミックス【ぼっち・ざ・ろっく!】",
+    "author": "もたち / ももり",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "fNvN-0Pxyx4",
+    "duration": "2:13",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（もたち / ももり）。",
+    "tags": [
+      "自動取得",
+      "ぼっち・ざ・ろっく！"
+    ],
+    "auto": true,
+    "anime": "ぼっち・ざ・ろっく！",
+    "reading": "ぼっち・ざ・ろっく！"
+  },
+  {
     "id": "auto_FiP6NoljJ_k",
     "title": "【音MAD】残酷な店主のテーゼ【新世紀エヴァンゲリオン】",
     "author": "なもさん",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_SaYCIEszL14",
-    "title": "【MAD】スパイファミリー×\"SOUVENIR\"(BUMP OF CHICKEN) 歌詞付き",
-    "author": "青りんご【MAD】",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "SaYCIEszL14",
-    "duration": "4:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（青りんご【MAD】）。",
-    "tags": [
-      "自動取得",
-      "ベイビーアイラブユーだぜ"
-    ],
-    "auto": true,
-    "anime": "ベイビーアイラブユーだぜ",
-    "reading": "べいびーあいらぶゆーだぜ"
   }
 ];
 

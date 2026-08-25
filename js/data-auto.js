@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_dzLECQeJAD0",
+    "title": "エヴァンゲリオン X 夜に駆ける【MAD】",
+    "author": "Ikumi /いくみ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "dzLECQeJAD0",
+    "duration": "4:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ikumi /いくみ）。",
+    "tags": [
+      "自動取得",
+      "新世紀エヴァンゲリオン"
+    ],
+    "auto": true,
+    "anime": "新世紀エヴァンゲリオン",
+    "reading": "しんせいきえゔぁんげりおん"
+  },
+  {
     "id": "auto_TF9xW89bjCA",
     "title": "【MAD/AMV】『葬送のフリーレン』OP:ヨルシカ 「晴る/Sunny」",
     "author": "Lemw4",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_DVWbhGyfWU4",
-    "title": "SPY x FAMILY RAP “That Elegance” ft. My Wife & Daughter | spy x family amv",
-    "author": "None Like Joshua and Tyler Clark",
-    "type": "single",
-    "genres": [
-      "ヒップホップ"
-    ],
-    "youtubeId": "DVWbhGyfWU4",
-    "duration": "3:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（None Like Joshua and Tyler Clark）。",
-    "tags": [
-      "自動取得",
-      "スパイ教室"
-    ],
-    "auto": true,
-    "anime": "スパイ教室",
-    "reading": "すぱいきょうしつ"
   }
 ];
 

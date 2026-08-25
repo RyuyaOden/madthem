@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_hDJDjW1NOsU",
+    "title": "MAD】SPY×FAMILY　エンディング主題歌　喜劇",
+    "author": "トロロ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hDJDjW1NOsU",
+    "duration": "3:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（トロロ）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_dzLECQeJAD0",
     "title": "エヴァンゲリオン X 夜に駆ける【MAD】",
     "author": "Ikumi /いくみ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_Z_KIZXRmwy0",
-    "title": "[MAD]東京リベンジャーズ×きっと大丈夫　⚠ネタバレ注意⚠",
-    "author": "シガレット社長",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Z_KIZXRmwy0",
-    "duration": "4:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（シガレット社長）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 

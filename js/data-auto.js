@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_TF9xW89bjCA",
+    "title": "【MAD/AMV】『葬送のフリーレン』OP:ヨルシカ 「晴る/Sunny」",
+    "author": "Lemw4",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "TF9xW89bjCA",
+    "duration": "4:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_oqXl2fawTPo",
     "title": "【MAD】四月は君の嘘【real escape】",
     "author": "official metro polica",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "スパイ教室",
     "reading": "すぱいきょうしつ"
-  },
-  {
-    "id": "auto_VPB_J6Egi28",
-    "title": "『チェンソーマン』9 巻発売記念スペシャルPV",
-    "author": "ジャンプチャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "VPB_J6Egi28",
-    "duration": "1:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ジャンプチャンネル）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 

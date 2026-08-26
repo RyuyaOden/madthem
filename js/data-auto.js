@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_9Mpl3xIucfA",
+    "title": "【MAD_AMV】ガンダム 鉄血のオルフェンズ【CHiLD-error-】(中文翻譯)",
+    "author": "小Ken",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "9Mpl3xIucfA",
+    "duration": "4:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（小Ken）。",
+    "tags": [
+      "自動取得",
+      "機動戦士ガンダム 鉄血のオルフェンズ"
+    ],
+    "auto": true,
+    "anime": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "reading": "きどうせんしがんだむ てっけつのおるふぇんず"
+  },
+  {
     "id": "auto_YpYbQt1_cnE",
     "title": "[MAD]凪のあすから",
     "author": "木村孝平",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_1vN4xiQUeiM",
-    "title": "暗殺教室×シャルル MAD",
-    "author": "つきの*ちゃんねる",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "1vN4xiQUeiM",
-    "duration": "3:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（つきの*ちゃんねる）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ];
 

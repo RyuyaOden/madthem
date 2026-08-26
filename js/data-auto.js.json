@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_YpYbQt1_cnE",
+    "title": "[MAD]凪のあすから",
+    "author": "木村孝平",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "YpYbQt1_cnE",
+    "duration": "1:18",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（木村孝平）。",
+    "tags": [
+      "自動取得",
+      "凪のあすから"
+    ],
+    "auto": true,
+    "anime": "凪のあすから",
+    "reading": "なぎのあすから"
+  },
+  {
     "id": "auto_hDJDjW1NOsU",
     "title": "MAD】SPY×FAMILY　エンディング主題歌　喜劇",
     "author": "トロロ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_UWCnZflnKIc",
-    "title": "【MAD】葬送のフリーレン｜アンデルセン_harha（セリフ入り）",
-    "author": "Haruta 91",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "UWCnZflnKIc",
-    "duration": "4:37",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Haruta 91）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]

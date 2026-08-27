@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_QTJnbJhl60A",
+    "title": "【MAD/AMV】葬送のフリーレン×藍二乗/ヨルシカ 【神技のレヴォルテ編】",
+    "author": "Lemw4",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "QTJnbJhl60A",
+    "duration": "4:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_fT2aADdo9xI",
     "title": "【MV】TVアニメ「暗殺教室」× 須田景凪「ラストルック｣ Collaboration Music Video ｜Assassination Classroom × Keina Suda",
     "author": "ジャンプチャンネル",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "僕のヒーローアカデミア",
     "reading": "ぼくのひーろーあかでみあ"
-  },
-  {
-    "id": "auto_rYZJf06VR6Y",
-    "title": "幾田りら／Lilas「In Bloom」アニメMV｜TVアニメ『薬屋のひとりごと』第2期第1クールOPテーマ「百花繚乱」英語Ver",
-    "author": "TOHO animation チャンネル and 幾田りら / Lilas Official",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "rYZJf06VR6Y",
-    "duration": "3:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル and 幾田りら / Lilas Official）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ];
 

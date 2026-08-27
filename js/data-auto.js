@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_zR5pZWxI6xQ",
+    "title": "【MAD】ワンパンマン×英雄(doa)",
+    "author": "やくも",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "zR5pZWxI6xQ",
+    "duration": "3:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（やくも）。",
+    "tags": [
+      "自動取得",
+      "ワンパンマン"
+    ],
+    "auto": true,
+    "anime": "ワンパンマン",
+    "reading": "わんぱんまん"
+  },
+  {
     "id": "auto_QTJnbJhl60A",
     "title": "【MAD/AMV】葬送のフリーレン×藍二乗/ヨルシカ 【神技のレヴォルテ編】",
     "author": "Lemw4",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_8Tn3Ex6HT8g",
-    "title": "【MAD/AMV】僕のヒーローアカデミア × かくれんぼ / AliA -セリフ入り-",
-    "author": "ぼくのめ【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "8Tn3Ex6HT8g",
-    "duration": "4:58",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ぼくのめ【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 

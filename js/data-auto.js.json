@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gcV5xQBE-Gw",
+    "title": "約束のネバーランドmad",
+    "author": "轟推しの約ネバファン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gcV5xQBE-Gw",
+    "duration": "1:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（轟推しの約ネバファン）。",
+    "tags": [
+      "自動取得",
+      "約束のネバーランド"
+    ],
+    "auto": true,
+    "anime": "約束のネバーランド",
+    "reading": "やくそくのねばーらんど"
+  },
+  {
     "id": "auto_0zjUTbsnatk",
     "title": "【MAD】シン・エヴァンゲリオン× DAYBREAKFRONTLINE【セリフ入り】【AMV】",
     "author": "Mizore 34",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_JOx0nagIRDw",
-    "title": "【MAD/AMV】推しの子（有馬かな）/草々不一",
-    "author": "I 9 3",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JOx0nagIRDw",
-    "duration": "3:10",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（I 9 3）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ]

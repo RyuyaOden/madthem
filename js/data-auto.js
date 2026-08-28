@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_FL8hnhd7Nko",
+    "title": "【MAD】天元突破グレンラガン×Once＆Forever【キタン】",
+    "author": "LimJiHyun1",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "FL8hnhd7Nko",
+    "duration": "4:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（LimJiHyun1）。",
+    "tags": [
+      "自動取得",
+      "天元突破グレンラガン"
+    ],
+    "auto": true,
+    "anime": "天元突破グレンラガン",
+    "reading": "てんげんとっぱぐれんらがん"
+  },
+  {
     "id": "auto_gcV5xQBE-Gw",
     "title": "約束のネバーランドmad",
     "author": "轟推しの約ネバファン",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_s_pHqDXomzo",
-    "title": "【MAD/AMV】呪術廻戦（五条悟）/一騎当千",
-    "author": "I 9 3",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "s_pHqDXomzo",
-    "duration": "3:26",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（I 9 3）。",
-    "tags": [
-      "自動取得",
-      "呪術廻戦"
-    ],
-    "auto": true,
-    "anime": "呪術廻戦",
-    "reading": "じゅじゅつかいせん"
   }
 ];
 

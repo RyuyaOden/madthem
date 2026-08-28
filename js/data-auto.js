@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_0zjUTbsnatk",
+    "title": "【MAD】シン・エヴァンゲリオン× DAYBREAKFRONTLINE【セリフ入り】【AMV】",
+    "author": "Mizore 34",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "0zjUTbsnatk",
+    "duration": "3:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Mizore 34）。",
+    "tags": [
+      "自動取得",
+      "シン・エヴァンゲリオン劇場版:||"
+    ],
+    "auto": true,
+    "anime": "シン・エヴァンゲリオン劇場版:||",
+    "reading": "しん・えゔぁんげりおんげきじょうばん:||"
+  },
+  {
     "id": "auto_zR5pZWxI6xQ",
     "title": "【MAD】ワンパンマン×英雄(doa)",
     "author": "やくも",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_tbJw9gqLcVo",
-    "title": "香水/瑛人feat.ライナーブラウン【進撃の巨人】",
-    "author": "何とは言わんが",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tbJw9gqLcVo",
-    "duration": "1:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（何とは言わんが）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 

@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_wi21-sPmBqE",
+    "title": "Yuri on Ice!!! (ユーリ!!! on ICE) - History Maker (Full)",
+    "author": "Sireniity",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wi21-sPmBqE",
+    "duration": "3:09",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Sireniity）。",
+    "tags": [
+      "自動取得",
+      "ユーリ!!! on ICE"
+    ],
+    "auto": true,
+    "anime": "ユーリ!!! on ICE",
+    "reading": "ゆーり!!! on ICE"
+  },
+  {
     "id": "auto_pjM4dbqcUVM",
     "title": "Hunter X Hunter - Hyori Ittai AMV",
     "author": "Benjuxx 2303",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "BOOLEAN_PARADOX/.",
     "reading": "BOOLEAN_PARADOX/."
-  },
-  {
-    "id": "auto_17vOq1XfEwA",
-    "title": "【MAD】東京リベンジャーズ×DOGMA【天竺メンバー】",
-    "author": "すみれ𓂃𓈒𓏸",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "17vOq1XfEwA",
-    "duration": "3:08",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（すみれ𓂃𓈒𓏸）。",
-    "tags": [
-      "自動取得",
-      "東京リベンジャーズ"
-    ],
-    "auto": true,
-    "anime": "東京リベンジャーズ",
-    "reading": "とうきょうりべんじゃーず"
   }
 ];
 

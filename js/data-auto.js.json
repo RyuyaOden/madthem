@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_vNc_ANiKzPg",
+    "title": "『魔法科高校の劣等生』完全新作アニメーション",
+    "author": "Darling  AI",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "vNc_ANiKzPg",
+    "duration": "1:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Darling  AI）。",
+    "tags": [
+      "自動取得",
+      "魔法科高校の劣等生"
+    ],
+    "auto": true,
+    "anime": "魔法科高校の劣等生",
+    "reading": "まほうかこうこうのれっとうせい"
+  },
+  {
     "id": "auto_wi21-sPmBqE",
     "title": "Yuri on Ice!!! (ユーリ!!! on ICE) - History Maker (Full)",
     "author": "Sireniity",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "機動戦士ガンダム 閃光のハサウェイ",
     "reading": "きどうせんしがんだむ せんこうのはさうぇい"
-  },
-  {
-    "id": "auto_Mb7vqwe4SYA",
-    "title": "Forger Family is too Elegant | Spy x Family (Ep 4)",
-    "author": "bern",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "Mb7vqwe4SYA",
-    "duration": "2:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（bern）。",
-    "tags": [
-      "自動取得",
-      "BOOLEAN_PARADOX/."
-    ],
-    "auto": true,
-    "anime": "BOOLEAN_PARADOX/.",
-    "reading": "BOOLEAN_PARADOX/."
   }
 ]

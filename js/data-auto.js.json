@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_kHtw9f-yeSE",
+    "title": "【薫る花は凛と咲く】スパークル",
+    "author": "新鮮バナナ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "kHtw9f-yeSE",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（新鮮バナナ）。",
+    "tags": [
+      "自動取得",
+      "薫る花は凛と咲く"
+    ],
+    "auto": true,
+    "anime": "薫る花は凛と咲く",
+    "reading": "かおるはなはりんとさく"
+  },
+  {
     "id": "auto_FL8hnhd7Nko",
     "title": "【MAD】天元突破グレンラガン×Once＆Forever【キタン】",
     "author": "LimJiHyun1",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "スパイ教室",
     "reading": "すぱいきょうしつ"
-  },
-  {
-    "id": "auto_4erwe1kKVM0",
-    "title": "【コメント付き】ドジャえもん【進撃の巨人】【MAD】",
-    "author": "投稿者氏名（niconicole3263）",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "4erwe1kKVM0",
-    "duration": "1:19",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（投稿者氏名（niconicole3263））。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ]

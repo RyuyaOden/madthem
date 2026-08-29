@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_pjM4dbqcUVM",
+    "title": "Hunter X Hunter - Hyori Ittai AMV",
+    "author": "Benjuxx 2303",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "pjM4dbqcUVM",
+    "duration": "5:39",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Benjuxx 2303）。",
+    "tags": [
+      "自動取得",
+      "Hunter"
+    ],
+    "auto": true,
+    "anime": "Hunter",
+    "reading": "Hunter"
+  },
+  {
     "id": "auto_kHtw9f-yeSE",
     "title": "【薫る花は凛と咲く】スパークル",
     "author": "新鮮バナナ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "東京リベンジャーズ",
     "reading": "とうきょうりべんじゃーず"
-  },
-  {
-    "id": "auto_v4E0J_avANo",
-    "title": "[ AMV ] - Spy X Family - Anya- Killer Queen (Mad Tsai)",
-    "author": "Syleane Prod.",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "v4E0J_avANo",
-    "duration": "2:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Syleane Prod.）。",
-    "tags": [
-      "自動取得",
-      "スパイ教室"
-    ],
-    "auto": true,
-    "anime": "スパイ教室",
-    "reading": "すぱいきょうしつ"
   }
 ];
 

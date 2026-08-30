@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_cxUarMuOg18",
+    "title": "チェンソーマン×シンデレラボーイ#MAD#チェンソーマンレゼ篇 #チェンソーマン#シンデレラボーイ",
+    "author": "トッキー",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "cxUarMuOg18",
+    "duration": "3:50",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（トッキー）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_200_WVzPxdo",
     "title": "【MAD】とある魔術の禁書目録「WILD EYES」",
     "author": "delsol",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_sOVktUNCJFQ",
-    "title": "【MAD/AMV】チェンソーマン × メランコリーキッチン",
-    "author": "nebosuke",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sOVktUNCJFQ",
-    "duration": "3:41",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（nebosuke）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ];
 

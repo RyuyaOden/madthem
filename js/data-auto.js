@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_q1C57JyGLkk",
+    "title": "【MAD】【推しの子】✶ファタール/GEMN✶ (第2期放送終了記念🎉) #アニメ #mad #推しの子 #ファタール",
+    "author": "Ayulia@MAD製作",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "q1C57JyGLkk",
+    "duration": "3:38",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ayulia@MAD製作）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_cxUarMuOg18",
     "title": "チェンソーマン×シンデレラボーイ#MAD#チェンソーマンレゼ篇 #チェンソーマン#シンデレラボーイ",
     "author": "トッキー",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "鬼滅の刃",
     "reading": "おにほろのは"
-  },
-  {
-    "id": "auto_JTdxSp5Tonc",
-    "title": "【MAD】聲の形 『恋をしたのは』",
-    "author": "マッさー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JTdxSp5Tonc",
-    "duration": "6:31",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（マッさー）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 

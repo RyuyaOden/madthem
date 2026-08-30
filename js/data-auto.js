@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_200_WVzPxdo",
+    "title": "【MAD】とある魔術の禁書目録「WILD EYES」",
+    "author": "delsol",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "200_WVzPxdo",
+    "duration": "1:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（delsol）。",
+    "tags": [
+      "自動取得",
+      "とある魔術の禁書目録"
+    ],
+    "auto": true,
+    "anime": "とある魔術の禁書目録",
+    "reading": "とあるまじゅつのきんしょもくろく"
+  },
+  {
     "id": "auto_vNc_ANiKzPg",
     "title": "『魔法科高校の劣等生』完全新作アニメーション",
     "author": "Darling  AI",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_zlmc05VkDqk",
-    "title": "【AMV】機動戦士ガンダム 閃光のハサウェイ | Guns N' Roses - Sweet Child O' Mine【MAD】",
-    "author": "paralyzerdarts",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "zlmc05VkDqk",
-    "duration": "4:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（paralyzerdarts）。",
-    "tags": [
-      "自動取得",
-      "機動戦士ガンダム 閃光のハサウェイ"
-    ],
-    "auto": true,
-    "anime": "機動戦士ガンダム 閃光のハサウェイ",
-    "reading": "きどうせんしがんだむ せんこうのはさうぇい"
   }
 ];
 

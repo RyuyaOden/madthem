@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Uq3J5ArwJ2s",
+    "title": "【MAD】ハイキュー×あとひとつ",
+    "author": "ここ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Uq3J5ArwJ2s",
+    "duration": "5:46",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ここ）。",
+    "tags": [
+      "自動取得",
+      "ハイキュー!!"
+    ],
+    "auto": true,
+    "anime": "ハイキュー!!",
+    "reading": "はいきゅー!!"
+  },
+  {
     "id": "auto_q1C57JyGLkk",
     "title": "【MAD】【推しの子】✶ファタール/GEMN✶ (第2期放送終了記念🎉) #アニメ #mad #推しの子 #ファタール",
     "author": "Ayulia@MAD製作",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "スパイ教室",
     "reading": "すぱいきょうしつ"
-  },
-  {
-    "id": "auto_SBNNHoWHKFY",
-    "title": "【MAD】鬼滅の刃 / 夜に駆ける / 伊之助 × カナヲ × 童磨 《ネタバレ注意》",
-    "author": "むぃ。",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "SBNNHoWHKFY",
-    "duration": "4:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（むぃ。）。",
-    "tags": [
-      "自動取得",
-      "鬼滅の刃"
-    ],
-    "auto": true,
-    "anime": "鬼滅の刃",
-    "reading": "おにほろのは"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_gorYeznj2cU",
+    "title": "※イヤホン推奨【MAD】ただ君を目指して歩いてゆく【Re:ゼロから始める異世界生活】DAYBREAK FRONTLINE／Fantastic Youth",
+    "author": "トミセフ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "gorYeznj2cU",
+    "duration": "3:33",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（トミセフ）。",
+    "tags": [
+      "自動取得",
+      "Re:ゼロから始める異世界生活"
+    ],
+    "auto": true,
+    "anime": "Re:ゼロから始める異世界生活",
+    "reading": "Re:ぜろからはじめるいせかいせいかつ"
+  },
+  {
     "id": "auto_Uq3J5ArwJ2s",
     "title": "【MAD】ハイキュー×あとひとつ",
     "author": "ここ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "ロケットガール",
     "reading": "ろけっとがーる"
-  },
-  {
-    "id": "auto_tbds3Go1AJM",
-    "title": "SPY×FAMILYエンディング主題歌 喜劇　／  “SPY × FAMILY” Ending theme song “comedy”【MAD】",
-    "author": "MFR",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tbds3Go1AJM",
-    "duration": "3:51",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（MFR）。",
-    "tags": [
-      "自動取得",
-      "スパイ教室"
-    ],
-    "auto": true,
-    "anime": "スパイ教室",
-    "reading": "すぱいきょうしつ"
   }
 ]

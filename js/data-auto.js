@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_ve6IHE9I9X0",
+    "title": "【炎炎ノ消防隊】懺悔参りMAD",
+    "author": "のけ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ve6IHE9I9X0",
+    "duration": "3:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（のけ）。",
+    "tags": [
+      "自動取得",
+      "炎炎ノ消防隊"
+    ],
+    "auto": true,
+    "anime": "炎炎ノ消防隊",
+    "reading": "ほのおほのおのしょうぼうたい"
+  },
+  {
     "id": "auto_W7UnkRRAz_A",
     "title": "ONE　OK　ROCK　×進撃の巨人【MAD】Never Let This Go　ワンオクロック　Attack on Titan",
     "author": "ko ARA",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "その着せ替え人形は恋をする",
     "reading": "そのきせかえにんぎょうはこいをする"
-  },
-  {
-    "id": "auto_u_1onhckHuw",
-    "title": "【MAD】 Naruto VS Sasuke / ナルト VS サスケ 『アウトサイダー』",
-    "author": "TerenceAMV - テレンスMAD",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "u_1onhckHuw",
-    "duration": "3:30",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TerenceAMV - テレンスMAD）。",
-    "tags": [
-      "自動取得",
-      "アウトサイダー"
-    ],
-    "auto": true,
-    "anime": "アウトサイダー",
-    "reading": "あうとさいだー"
   }
 ];
 

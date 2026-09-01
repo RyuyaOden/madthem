@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_W7UnkRRAz_A",
+    "title": "ONE　OK　ROCK　×進撃の巨人【MAD】Never Let This Go　ワンオクロック　Attack on Titan",
+    "author": "ko ARA",
+    "type": "single",
+    "genres": [
+      "ロック"
+    ],
+    "youtubeId": "W7UnkRRAz_A",
+    "duration": "4:24",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ko ARA）。",
+    "tags": [
+      "自動取得",
+      "I was King"
+    ],
+    "auto": true,
+    "anime": "I was King",
+    "reading": "I was King"
+  },
+  {
     "id": "auto_yCnNHJteVLk",
     "title": "【Wedding】結婚式 自作ムービー guest focus (山下達郎/僕らの夏の夢)",
     "author": "ちげお.",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "アウトサイダー",
     "reading": "あうとさいだー"
-  },
-  {
-    "id": "auto_dDhkFLCt_rs",
-    "title": "\"Naru210\" - spoof of Naruto and 90210 by MAD (TV show)",
-    "author": "Mireille Antone",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dDhkFLCt_rs",
-    "duration": "2:56",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Mireille Antone）。",
-    "tags": [
-      "自動取得",
-      "The TV Show"
-    ],
-    "auto": true,
-    "anime": "The TV Show",
-    "reading": "The TV Show"
   }
 ];
 

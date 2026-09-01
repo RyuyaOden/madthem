@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_yCnNHJteVLk",
+    "title": "【Wedding】結婚式 自作ムービー guest focus (山下達郎/僕らの夏の夢)",
+    "author": "ちげお.",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "yCnNHJteVLk",
+    "duration": "5:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ちげお.）。",
+    "tags": [
+      "自動取得",
+      "愛天使伝説 ウェディングピーチ"
+    ],
+    "auto": true,
+    "anime": "愛天使伝説 ウェディングピーチ",
+    "reading": "あいてんしでんせつ うぇでぃんぐぴーち"
+  },
+  {
     "id": "auto_gorYeznj2cU",
     "title": "※イヤホン推奨【MAD】ただ君を目指して歩いてゆく【Re:ゼロから始める異世界生活】DAYBREAK FRONTLINE／Fantastic Youth",
     "author": "トミセフ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "The TV Show",
     "reading": "The TV Show"
-  },
-  {
-    "id": "auto_Q8OlVtWbAVg",
-    "title": "Dr. Stone: Science Future Part 3 - Ending FULL『ROCKET』by BURNOUT SYNDROMES (Lyrics)",
-    "author": "Laido Music",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "Q8OlVtWbAVg",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Laido Music）。",
-    "tags": [
-      "自動取得",
-      "ロケットガール"
-    ],
-    "auto": true,
-    "anime": "ロケットガール",
-    "reading": "ろけっとがーる"
   }
 ];
 

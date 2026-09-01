@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_rabzHcRbMSQ",
+    "title": "【MAD】ガチアクタ/偽物人間40号",
+    "author": "ねむねこ【MAD】",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "rabzHcRbMSQ",
+    "duration": "3:23",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ねむねこ【MAD】）。",
+    "tags": [
+      "自動取得",
+      "ガチアクタ"
+    ],
+    "auto": true,
+    "anime": "ガチアクタ",
+    "reading": "がちあくた"
+  },
+  {
     "id": "auto_ve6IHE9I9X0",
     "title": "【炎炎ノ消防隊】懺悔参りMAD",
     "author": "のけ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_JE3qeIT-A6A",
-    "title": "【MAD】その着せ替え人形は恋をする【大切にしてるこだわり】",
-    "author": "kou 【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "JE3qeIT-A6A",
-    "duration": "3:55",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（kou 【MAD】）。",
-    "tags": [
-      "自動取得",
-      "その着せ替え人形は恋をする"
-    ],
-    "auto": true,
-    "anime": "その着せ替え人形は恋をする",
-    "reading": "そのきせかえにんぎょうはこいをする"
   }
 ];
 

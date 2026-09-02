@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_63Q9fdeHpHA",
+    "title": "【MAD】虹【あの花】",
+    "author": "SuperILLHYHL",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "63Q9fdeHpHA",
+    "duration": "3:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（SuperILLHYHL）。",
+    "tags": [
+      "自動取得",
+      "あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_PTyPr4wFBg0",
     "title": "Spy X Family OST (Unofficial):  He is Mad - Shuji Katayama",
     "author": "AndrewTheHacker - Music File (Copyright)",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ブルーロック VS. U-20 JAPAN",
     "reading": "ぶるーろっく VS. U-20 JAPAN"
-  },
-  {
-    "id": "auto_K7GQ6TX1Jjg",
-    "title": "【台詞入りAMV/MAD】モブサイコ100 x SUPER BEAVER 「人として」",
-    "author": "ち",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "K7GQ6TX1Jjg",
-    "duration": "3:34",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ち）。",
-    "tags": [
-      "自動取得",
-      "モブサイコ100"
-    ],
-    "auto": true,
-    "anime": "モブサイコ100",
-    "reading": "もぶさいこ100"
   }
 ];
 

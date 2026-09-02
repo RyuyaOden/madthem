@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_hQWSKDy7N-o",
+    "title": "エヴァンゲリオンMAD【アウフヘーベン】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "hQWSKDy7N-o",
+    "duration": "4:16",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "新世紀エヴァンゲリオン"
+    ],
+    "auto": true,
+    "anime": "新世紀エヴァンゲリオン",
+    "reading": "しんせいきえゔぁんげりおん"
+  },
+  {
     "id": "auto_63Q9fdeHpHA",
     "title": "【MAD】虹【あの花】",
     "author": "SuperILLHYHL",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "運命",
     "reading": "うんめい"
-  },
-  {
-    "id": "auto_AW6nKvJdnH8",
-    "title": "【MAD】ブルーロック第2期×傍若のカリスマ/UNISON SQUARE GARDEN",
-    "author": "羽田サック",
-    "type": "single",
-    "genres": [
-      "ロック"
-    ],
-    "youtubeId": "AW6nKvJdnH8",
-    "duration": "4:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（羽田サック）。",
-    "tags": [
-      "自動取得",
-      "ブルーロック VS. U-20 JAPAN"
-    ],
-    "auto": true,
-    "anime": "ブルーロック VS. U-20 JAPAN",
-    "reading": "ぶるーろっく VS. U-20 JAPAN"
   }
 ];
 

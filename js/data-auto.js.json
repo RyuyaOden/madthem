@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_PTyPr4wFBg0",
+    "title": "Spy X Family OST (Unofficial):  He is Mad - Shuji Katayama",
+    "author": "AndrewTheHacker - Music File (Copyright)",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "PTyPr4wFBg0",
+    "duration": "1:42",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（AndrewTheHacker - Music File (Copyright)）。",
+    "tags": [
+      "自動取得",
+      "スパイ教室"
+    ],
+    "auto": true,
+    "anime": "スパイ教室",
+    "reading": "すぱいきょうしつ"
+  },
+  {
     "id": "auto_rabzHcRbMSQ",
     "title": "【MAD】ガチアクタ/偽物人間40号",
     "author": "ねむねこ【MAD】",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "モブサイコ100",
     "reading": "もぶさいこ100"
-  },
-  {
-    "id": "auto_-OS-0-CoIaw",
-    "title": "【進撃の巨人】だれかの心臓になれたら／MAD",
-    "author": "Shin-シン-",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "-OS-0-CoIaw",
-    "duration": "3:29",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Shin-シン-）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ]

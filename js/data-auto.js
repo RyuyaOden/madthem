@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_wimsMlDzOYI",
+    "title": "【MAD】あの花　「打ち上げ花火」",
+    "author": "2429ninini",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "wimsMlDzOYI",
+    "duration": "1:53",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（2429ninini）。",
+    "tags": [
+      "自動取得",
+      "あの日見た花の名前を僕達はまだ知らない。"
+    ],
+    "auto": true,
+    "anime": "あの日見た花の名前を僕達はまだ知らない。",
+    "reading": "あのひみたはなのなまえをぼくたちはまだしらない。"
+  },
+  {
     "id": "auto_ImKmcmwWTb0",
     "title": "【MAD】 コードギアス (Code Geass) R2 - OP Noizy Tribe",
     "author": "sysMAXXX",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "新世紀エヴァンゲリオン",
     "reading": "しんせいきえゔぁんげりおん"
-  },
-  {
-    "id": "auto_tVircGB65Ws",
-    "title": "【MAD】聲の形",
-    "author": "コメーズ【映画MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "tVircGB65Ws",
-    "duration": "3:54",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（コメーズ【映画MAD】）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 

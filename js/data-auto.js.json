@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_3Zhw5hOsAEk",
+    "title": "【MAD/AMV】すばらしきこのせかい「A Lone Player」【The world Ends with you】",
+    "author": "MAD製作所ヴァルサン",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "3Zhw5hOsAEk",
+    "duration": "1:06",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（MAD製作所ヴァルサン）。",
+    "tags": [
+      "自動取得",
+      "すばらしきこのせかい The Animation"
+    ],
+    "auto": true,
+    "anime": "すばらしきこのせかい The Animation",
+    "reading": "すばらしきこのせかい The Animation"
+  },
+  {
     "id": "auto_wimsMlDzOYI",
     "title": "【MAD】あの花　「打ち上げ花火」",
     "author": "2429ninini",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_G9DdEoyM5Ao",
-    "title": "エヴァンゲリオンMAD【死んでしまったのだろうか】",
-    "author": "ฅ^•ω•^ฅ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "G9DdEoyM5Ao",
-    "duration": "4:00",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
-    "tags": [
-      "自動取得",
-      "新世紀エヴァンゲリオン"
-    ],
-    "auto": true,
-    "anime": "新世紀エヴァンゲリオン",
-    "reading": "しんせいきえゔぁんげりおん"
   }
 ]

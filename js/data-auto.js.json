@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_ImKmcmwWTb0",
+    "title": "【MAD】 コードギアス (Code Geass) R2 - OP Noizy Tribe",
+    "author": "sysMAXXX",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "ImKmcmwWTb0",
+    "duration": "1:41",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（sysMAXXX）。",
+    "tags": [
+      "自動取得",
+      "コードギアス 奪還のロゼ"
+    ],
+    "auto": true,
+    "anime": "コードギアス 奪還のロゼ",
+    "reading": "こーどぎあす だっかんのろぜ"
+  },
+  {
     "id": "auto_hQWSKDy7N-o",
     "title": "エヴァンゲリオンMAD【アウフヘーベン】",
     "author": "ฅ^•ω•^ฅ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_sQ6IbZQhWY4",
-    "title": "【MAD】Fate/Grand Order -絶対魔獣戦線バビロニア-  milet「Prover」【FGO】【台詞入りMAD】【名言】",
-    "author": "anima",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "sQ6IbZQhWY4",
-    "duration": "4:13",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（anima）。",
-    "tags": [
-      "自動取得",
-      "運命"
-    ],
-    "auto": true,
-    "anime": "運命",
-    "reading": "うんめい"
   }
 ]

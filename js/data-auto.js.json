@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_14vToK5ckk4",
+    "title": "【MAD】ポケモン×君の冒険",
+    "author": "ひだ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "14vToK5ckk4",
+    "duration": "4:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ひだ）。",
+    "tags": [
+      "自動取得",
+      "ポケットモンスター"
+    ],
+    "auto": true,
+    "anime": "ポケットモンスター",
+    "reading": "ぽけっともんすたー"
+  },
+  {
     "id": "auto_DiJGdXDL1ug",
     "title": "『MAD』進撃の巨人 - シャルル",
     "author": "Toka",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "薫る花は凛と咲く",
     "reading": "かおるはなはりんとさく"
-  },
-  {
-    "id": "auto_7X_xckVEAiU",
-    "title": "【MAD/AMV】薬屋のひとりごと×友よ〜この先もずっと... -仲良し3人娘-【セリフ入り/アニメ2期終了記念】",
-    "author": "Lemw4",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "7X_xckVEAiU",
-    "duration": "4:38",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Lemw4）。",
-    "tags": [
-      "自動取得",
-      "薬屋のひとりごと"
-    ],
-    "auto": true,
-    "anime": "薬屋のひとりごと",
-    "reading": "くすりやのひとりごと"
   }
 ]

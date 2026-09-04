@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_DiJGdXDL1ug",
+    "title": "『MAD』進撃の巨人 - シャルル",
+    "author": "Toka",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "DiJGdXDL1ug",
+    "duration": "3:47",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Toka）。",
+    "tags": [
+      "自動取得",
+      "Mad Love"
+    ],
+    "auto": true,
+    "anime": "Mad Love",
+    "reading": "Mad Love"
+  },
+  {
     "id": "auto_q48clLbpCMw",
     "title": "【FateMAD】とても素敵な六月でした【Fate/Grand Order】【神聖円卓領域キャメロット】#fate #mad #とても素敵な六月でした",
     "author": "にゃお〜ん0322",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "薬屋のひとりごと",
     "reading": "くすりやのひとりごと"
-  },
-  {
-    "id": "auto_VUvqLAd2KvQ",
-    "title": "【アニメ完結MAD/AMV】僕のヒーローアカデミア×林ゆうき/Hero too　セリフ　歌詞和訳あり",
-    "author": "のある【MAD】",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "VUvqLAd2KvQ",
-    "duration": "4:21",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（のある【MAD】）。",
-    "tags": [
-      "自動取得",
-      "僕のヒーローアカデミア"
-    ],
-    "auto": true,
-    "anime": "僕のヒーローアカデミア",
-    "reading": "ぼくのひーろーあかでみあ"
   }
 ];
 

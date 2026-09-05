@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_Yzc32BJ6UwM",
+    "title": "【MAD】このすば×Brand New World",
+    "author": "ray",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Yzc32BJ6UwM",
+    "duration": "1:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ray）。",
+    "tags": [
+      "自動取得",
+      "この素晴らしい世界に祝福を！紅伝説"
+    ],
+    "auto": true,
+    "anime": "この素晴らしい世界に祝福を！紅伝説",
+    "reading": "このすばらしいせかいにしゅくふくを！くれないでんせつ"
+  },
+  {
     "id": "auto_oilrFj2zlTM",
     "title": "Die With A Smile「AMV」| Frieren × Himmel (Collab)",
     "author": "Archiiex",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_H8BE20V00Tk",
-    "title": "【OSHI NO KO】 Music History: Looking Back PV (Season 1–3 Theme Song Retrospective)",
-    "author": "TVアニメ【推しの子】公式チャンネル",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "H8BE20V00Tk",
-    "duration": "3:18",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（TVアニメ【推しの子】公式チャンネル）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 

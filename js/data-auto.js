@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_cDGMuavL0KQ",
+    "title": "【MAD】ドラゴンボールZ　銀河ギリギリ!!~おめぇが地球を守るんだ!!~",
+    "author": "TEAM-BACK",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "cDGMuavL0KQ",
+    "duration": "4:15",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TEAM-BACK）。",
+    "tags": [
+      "自動取得",
+      "ドラゴンボールZ 銀河ギリギリ!! ぶっちぎりの凄い奴"
+    ],
+    "auto": true,
+    "anime": "ドラゴンボールZ 銀河ギリギリ!! ぶっちぎりの凄い奴",
+    "reading": "どらごんぼーるZ ぎんがぎりぎり!! ぶっちぎりのすごいやつ"
+  },
+  {
     "id": "auto_14vToK5ckk4",
     "title": "【MAD】ポケモン×君の冒険",
     "author": "ひだ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "聲の形",
     "reading": "こえのかたち"
-  },
-  {
-    "id": "auto_i9P93xyKjy0",
-    "title": "【MAD】薫る花は凛と咲く/ハレの日に",
-    "author": "めたん",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "i9P93xyKjy0",
-    "duration": "4:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（めたん）。",
-    "tags": [
-      "自動取得",
-      "薫る花は凛と咲く"
-    ],
-    "auto": true,
-    "anime": "薫る花は凛と咲く",
-    "reading": "かおるはなはりんとさく"
   }
 ];
 

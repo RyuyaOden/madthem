@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_oilrFj2zlTM",
+    "title": "Die With A Smile「AMV」| Frieren × Himmel (Collab)",
+    "author": "Archiiex",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "oilrFj2zlTM",
+    "duration": "4:07",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Archiiex）。",
+    "tags": [
+      "自動取得",
+      "レペゼン地球コラボアニメ"
+    ],
+    "auto": true,
+    "anime": "レペゼン地球コラボアニメ",
+    "reading": "れぺぜんちきゅうこらぼあにめ"
+  },
+  {
     "id": "auto_cDGMuavL0KQ",
     "title": "【MAD】ドラゴンボールZ　銀河ギリギリ!!~おめぇが地球を守るんだ!!~",
     "author": "TEAM-BACK",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_vm3z1IVGJRI",
-    "title": "【MAD】聲の形/「秘密の」",
-    "author": "しょうゆ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vm3z1IVGJRI",
-    "duration": "4:49",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（しょうゆ）。",
-    "tags": [
-      "自動取得",
-      "聲の形"
-    ],
-    "auto": true,
-    "anime": "聲の形",
-    "reading": "こえのかたち"
   }
 ];
 

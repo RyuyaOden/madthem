@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_Gx-V6ihTpZY",
+    "title": "(MAD／AMV)傷物語×スーサイドパレヱド",
+    "author": "空白",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "Gx-V6ihTpZY",
+    "duration": "3:12",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（空白）。",
+    "tags": [
+      "自動取得",
+      "傷物語 -こよみヴァンプ-"
+    ],
+    "auto": true,
+    "anime": "傷物語 -こよみヴァンプ-",
+    "reading": "きずものご -こよみゔぁんぷ-"
+  },
+  {
     "id": "auto_M3PRWJyFv1Y",
     "title": "やはり俺の青春ラブコメはまちがっている。[MAD]",
     "author": "アニメTV SS",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "【推しの子】",
     "reading": "【おしのこ】"
-  },
-  {
-    "id": "auto_ZIVVXpHdjZg",
-    "title": "【MAD】暗殺教室×ハルカ/YOASOBI    【セリフ入り】",
-    "author": "【MAD】デラックスジョーカー",
-    "type": "single",
-    "genres": [
-      "J-POP"
-    ],
-    "youtubeId": "ZIVVXpHdjZg",
-    "duration": "4:17",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（【MAD】デラックスジョーカー）。",
-    "tags": [
-      "自動取得",
-      "暗殺教室"
-    ],
-    "auto": true,
-    "anime": "暗殺教室",
-    "reading": "あんさつきょうしつ"
   }
 ]

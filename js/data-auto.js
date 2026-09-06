@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_M3PRWJyFv1Y",
+    "title": "やはり俺の青春ラブコメはまちがっている。[MAD]",
+    "author": "アニメTV SS",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "M3PRWJyFv1Y",
+    "duration": "1:44",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（アニメTV SS）。",
+    "tags": [
+      "自動取得",
+      "やはり俺の青春ラブコメはまちがっている。"
+    ],
+    "auto": true,
+    "anime": "やはり俺の青春ラブコメはまちがっている。",
+    "reading": "やはりおれのせいしゅんらぶこめはまちがっている。"
+  },
+  {
     "id": "auto_RBKyQJN_GA0",
     "title": "[PV風MAD] PSYCHO-PASS (All Alone With You) ※音量に注意",
     "author": "うた",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "暗殺教室",
     "reading": "あんさつきょうしつ"
-  },
-  {
-    "id": "auto_vIcvNN-viOA",
-    "title": "【MAD】進撃の巨人×第六感　THE SIXTH SENSE  Attack on Titan",
-    "author": "ゼロル/zeroru",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "vIcvNN-viOA",
-    "duration": "2:20",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ゼロル/zeroru）。",
-    "tags": [
-      "自動取得",
-      "進撃の巨人"
-    ],
-    "auto": true,
-    "anime": "進撃の巨人",
-    "reading": "しんげきのきょじん"
   }
 ];
 

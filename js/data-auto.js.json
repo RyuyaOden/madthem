@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_RBKyQJN_GA0",
+    "title": "[PV風MAD] PSYCHO-PASS (All Alone With You) ※音量に注意",
+    "author": "うた",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "RBKyQJN_GA0",
+    "duration": "3:29",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（うた）。",
+    "tags": [
+      "自動取得",
+      "All Alone With You"
+    ],
+    "auto": true,
+    "anime": "All Alone With You",
+    "reading": "All Alone With You"
+  },
+  {
     "id": "auto_Yzc32BJ6UwM",
     "title": "【MAD】このすば×Brand New World",
     "author": "ray",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "進撃の巨人",
     "reading": "しんげきのきょじん"
-  },
-  {
-    "id": "auto_9wqHP36F05Y",
-    "title": "【葬送のフリーレン】最後のさよならは、君に【MAD】",
-    "author": "シャンリー",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "9wqHP36F05Y",
-    "duration": "3:27",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（シャンリー）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ]

@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_d2JEvXyqrzs",
+    "title": "聲の形 MAD【アマドール】",
+    "author": "ฅ^•ω•^ฅ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "d2JEvXyqrzs",
+    "duration": "4:25",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（ฅ^•ω•^ฅ）。",
+    "tags": [
+      "自動取得",
+      "聲の形"
+    ],
+    "auto": true,
+    "anime": "聲の形",
+    "reading": "こえのかたち"
+  },
+  {
     "id": "auto_6SEKVHsYE_s",
     "title": "【MAD】駄目だこの世界線早く何とかしないと #1 【Steins;Gate】",
     "author": "INA72 - いなナフ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "SAKAMOTO DAYS",
     "reading": "SAKAMOTO DAYS"
-  },
-  {
-    "id": "auto__Iuf1E4e8aY",
-    "title": "[MAD] 心臓 [チェンソーマン]",
-    "author": "ルシファー坂本",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "_Iuf1E4e8aY",
-    "duration": "1:28",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ルシファー坂本）。",
-    "tags": [
-      "自動取得",
-      "チェンソーマン"
-    ],
-    "auto": true,
-    "anime": "チェンソーマン",
-    "reading": "ちぇんそーまん"
   }
 ]

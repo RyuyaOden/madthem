@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_6SEKVHsYE_s",
+    "title": "【MAD】駄目だこの世界線早く何とかしないと #1 【Steins;Gate】",
+    "author": "INA72 - いなナフ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "6SEKVHsYE_s",
+    "duration": "4:36",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（INA72 - いなナフ）。",
+    "tags": [
+      "自動取得",
+      "シュタインズ・ゲート"
+    ],
+    "auto": true,
+    "anime": "シュタインズ・ゲート",
+    "reading": "しゅたいんず・げーと"
+  },
+  {
     "id": "auto_HAOQDCF0jQE",
     "title": "『葬送のフリーレン』ノンクレジットED(第2クール)／EDテーマ：milet「Anytime Anywhere」",
     "author": "TOHO animation チャンネル",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "チェンソーマン",
     "reading": "ちぇんそーまん"
-  },
-  {
-    "id": "auto_cqhm_kjgKCE",
-    "title": "【MAD/AMV】葬送のフリーレン×君の映画のエンドロールに【高画質】【4K】",
-    "author": "あゆきる王国『あゆき&ウル』",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "cqhm_kjgKCE",
-    "duration": "2:53",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（あゆきる王国『あゆき&ウル』）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 

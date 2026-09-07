@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_HAOQDCF0jQE",
+    "title": "『葬送のフリーレン』ノンクレジットED(第2クール)／EDテーマ：milet「Anytime Anywhere」",
+    "author": "TOHO animation チャンネル",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "HAOQDCF0jQE",
+    "duration": "1:34",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（TOHO animation チャンネル）。",
+    "tags": [
+      "自動取得",
+      "葬送のフリーレン"
+    ],
+    "auto": true,
+    "anime": "葬送のフリーレン",
+    "reading": "そうそうのふりーれん"
+  },
+  {
     "id": "auto_Gx-V6ihTpZY",
     "title": "(MAD／AMV)傷物語×スーサイドパレヱド",
     "author": "空白",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_TfaBjITSAaw",
-    "title": "【MAD】【推しの子】『 キセキ 』",
-    "author": "脳が焼かれた子",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "TfaBjITSAaw",
-    "duration": "4:33",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（脳が焼かれた子）。",
-    "tags": [
-      "自動取得",
-      "【推しの子】"
-    ],
-    "auto": true,
-    "anime": "【推しの子】",
-    "reading": "【おしのこ】"
   }
 ];
 

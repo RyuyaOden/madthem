@@ -1,5 +1,27 @@
 [
   {
+    "id": "auto_2lIgSs4rlq0",
+    "title": "【チェンソーマン レゼ篇】あなた【宇多田ヒカル】",
+    "author": "憂うつ",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "2lIgSs4rlq0",
+    "duration": "4:32",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（憂うつ）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン レゼ篇"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン レゼ篇",
+    "reading": "ちぇんそーまん れぜへん"
+  },
+  {
     "id": "auto_d2JEvXyqrzs",
     "title": "聲の形 MAD【アマドール】",
     "author": "ฅ^•ω•^ฅ",
@@ -21981,27 +22003,5 @@
     "auto": true,
     "anime": "葬送のフリーレン",
     "reading": "そうそうのふりーれん"
-  },
-  {
-    "id": "auto_dAk8aVCIlBI",
-    "title": "Sakamoto Days | Part 2 OP \"Method\" by Kroi | Netflix",
-    "author": "Still Watching Netflix",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "dAk8aVCIlBI",
-    "duration": "1:43",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（Still Watching Netflix）。",
-    "tags": [
-      "自動取得",
-      "SAKAMOTO DAYS"
-    ],
-    "auto": true,
-    "anime": "SAKAMOTO DAYS",
-    "reading": "SAKAMOTO DAYS"
   }
 ]

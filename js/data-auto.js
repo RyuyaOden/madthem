@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_omKNqF_AcX8",
+    "title": "【MAD】チェンソーマン/狂乱 Hey Kids!!",
+    "author": "Generous MAD",
+    "type": "single",
+    "genres": [
+      "アニソン"
+    ],
+    "youtubeId": "omKNqF_AcX8",
+    "duration": "1:20",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Generous MAD）。",
+    "tags": [
+      "自動取得",
+      "チェンソーマン"
+    ],
+    "auto": true,
+    "anime": "チェンソーマン",
+    "reading": "ちぇんそーまん"
+  },
+  {
     "id": "auto_p_urV5E5IVA",
     "title": "【MAD】【推しの子】TEST ME/ちゃんみな (第3期放送終了記念MAD🎉) #アニメ #mad #推しの子 #ちゃんみな",
     "author": "Ayulia@MAD製作",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "呪術廻戦",
     "reading": "じゅじゅつかいせん"
-  },
-  {
-    "id": "auto_0PP8cQzfsLM",
-    "title": "【ハイキュー!!FINAL】ゴミ捨て場の決戦〜敗者よ、明日は何者になる〜【後編】",
-    "author": "ユウ",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "0PP8cQzfsLM",
-    "duration": "2:06",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（ユウ）。",
-    "tags": [
-      "自動取得",
-      "ハイキュー!! ゴミ捨て場の決戦"
-    ],
-    "auto": true,
-    "anime": "ハイキュー!! ゴミ捨て場の決戦",
-    "reading": "はいきゅー!! ごみすてばのけっせん"
   }
 ];
 

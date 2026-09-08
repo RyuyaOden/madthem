@@ -2,6 +2,28 @@
    手動編集しないこと（次回更新で上書きされます）。 */
 const MAD_AUTO = [
   {
+    "id": "auto_p_urV5E5IVA",
+    "title": "【MAD】【推しの子】TEST ME/ちゃんみな (第3期放送終了記念MAD🎉) #アニメ #mad #推しの子 #ちゃんみな",
+    "author": "Ayulia@MAD製作",
+    "type": "single",
+    "genres": [
+      "ヒップホップ"
+    ],
+    "youtubeId": "p_urV5E5IVA",
+    "duration": "2:51",
+    "year": 2026,
+    "hot": true,
+    "recommended": false,
+    "description": "YouTubeから自動取得したアニメMAD（Ayulia@MAD製作）。",
+    "tags": [
+      "自動取得",
+      "【推しの子】"
+    ],
+    "auto": true,
+    "anime": "【推しの子】",
+    "reading": "【おしのこ】"
+  },
+  {
     "id": "auto_2lIgSs4rlq0",
     "title": "【チェンソーマン レゼ篇】あなた【宇多田ヒカル】",
     "author": "憂うつ",
@@ -21983,28 +22005,6 @@ const MAD_AUTO = [
     "auto": true,
     "anime": "ハイキュー!! ゴミ捨て場の決戦",
     "reading": "はいきゅー!! ごみすてばのけっせん"
-  },
-  {
-    "id": "auto_em6Zsro1W8E",
-    "title": "【MAD/AMV】葬送のフリーレン | 一般攻撃魔法「Zoltraak」",
-    "author": "A.T. TAKEMURA",
-    "type": "single",
-    "genres": [
-      "アニソン"
-    ],
-    "youtubeId": "em6Zsro1W8E",
-    "duration": "2:25",
-    "year": 2026,
-    "hot": true,
-    "recommended": false,
-    "description": "YouTubeから自動取得したアニメMAD（A.T. TAKEMURA）。",
-    "tags": [
-      "自動取得",
-      "葬送のフリーレン"
-    ],
-    "auto": true,
-    "anime": "葬送のフリーレン",
-    "reading": "そうそうのふりーれん"
   }
 ];
 
